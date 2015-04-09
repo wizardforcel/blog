@@ -1,0 +1,34 @@
+# Header
+menu:
+  龙哥盟: /
+  代码仓库: https://github.com/wizardforcel
+  开发者: /developer
+  电子书: /it-ebooks
+  苍海国际: http://www.258ch.com/
+  留言板: /about
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- about
+- support
+- music
+- recent_posts
+- archive
+- category
+- tagcloud
+- link
+- ad
+
+# Miscellaneous
+google_analytics:
+favicon: http://7u2hdm.com1.z0.glb.clouddn.com/favicon.ico
+# twitter:
+# google_plus:
+# fb_admins:
+# fb_app_id:
