@@ -6,6 +6,8 @@
     "hexo-renderer-ejs": "*",
     "hexo-renderer-stylus": "*",
     "hexo-renderer-marked": "*",
-    "hexo-migrator-wordpress": "^0.1.1"
+    "hexo-migrator-wordpress": "^0.1.1",
+    "hexo-generator-feed": "*",
+    "hexo-generator-sitemap": "*"
   }
 }
