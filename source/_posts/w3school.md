@@ -29,6 +29,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994927)
   * [51CTO下载](http://down.51cto.com/data/1878955)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV7)
+  * [百度云下载](http://pan.baidu.com/s/1sj6vGvF)
 
 ## Bootstrap教程
 
@@ -39,6 +40,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994907)
   * [51CTO下载](http://down.51cto.com/data/1878952)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV4)
+  * [百度云下载](http://pan.baidu.com/s/1eQvmJS2)
 
 ## CSS参考手册
 
@@ -49,6 +51,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084309)
   * [51CTO下载](http://down.51cto.com/data/1889669)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV9)
+  * [百度云下载](http://pan.baidu.com/s/1gdepLf1)
 
 ## C# &amp; ASP.net教程
 
@@ -60,6 +63,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084309)
   * [51CTO下载](http://down.51cto.com/data/1879009)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVv)
+  * [百度云下载](http://pan.baidu.com/s/1ntxay0p)
 
 ## C++教程
 
@@ -70,6 +74,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8407697)
   * [51CTO下载](http://down.51cto.com/data/1979786)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVX)
+  * [百度云下载](http://pan.baidu.com/s/1qWNYDVe)
   
 ## C语言教程
 
@@ -80,6 +85,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8309151)
   * [51CTO下载](http://down.51cto.com/data/1967849)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV0)
+  * [百度云下载](http://pan.baidu.com/s/1mgBV7YS)
 
 ## Eclipse 教程
 
@@ -90,6 +96,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8316883)
   * [51CTO下载](http://down.51cto.com/data/1968648)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVQ)
+  * [百度云下载](http://pan.baidu.com/s/1c0o5qd6)
 
 ## HTML &amp; css教程
 
@@ -102,6 +109,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7997519)
   * [51CTO下载](http://down.51cto.com/data/1879168)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVx)
+  * [百度云下载](http://pan.baidu.com/s/1qWLqPdy)
 
 ## HTML参考手册
 
@@ -112,6 +120,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084901)
   * [51CTO下载](http://down.51cto.com/data/1889715)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBR)
+  * [百度云下载](http://pan.baidu.com/s/1eQ2Esro)
 
 ## ios教程
 
@@ -122,6 +131,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994919)
   * [51CTO下载](http://down.51cto.com/data/1878954)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCt)
+  * [百度云下载](http://pan.baidu.com/s/1eQkx1zc)
 
 ## Java &amp; Java Web教程
 
@@ -134,6 +144,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995503)
   * [51CTO下载](http://down.51cto.com/data/1878997)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBV)
+  * [百度云下载](http://pan.baidu.com/s/1eQGR5vG)
 
 ## JavaScript &amp; jQuery教程
 
@@ -149,6 +160,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8088421)
   * [51CTO下载](http://down.51cto.com/data/1890200)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCq)
+  * [百度云下载](http://pan.baidu.com/s/1dDF7D53)
 
 ## JavaScript参考手册
 
@@ -159,6 +171,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8000335)
   * [51CTO下载](http://down.51cto.com/data/1879731)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBU)
+  * [百度云下载](http://pan.baidu.com/s/1i3kXrvB)
 
 ## jQueryMobile教程
 
@@ -169,6 +182,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8069785)
   * [51CTO下载](http://down.51cto.com/data/1887084)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCx)
+  * [百度云下载](http://pan.baidu.com/s/1jGKhhps)
 
 ## jQuery UI教程
 
@@ -180,6 +194,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7996813)
   * [51CTO下载](http://down.51cto.com/data/1879132)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCc)
+  * [百度云下载](http://pan.baidu.com/s/1dDlLxD3)
 
 ## JQuery参考手册
 
@@ -190,6 +205,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7997915)
   * [51CTO下载](http://down.51cto.com/data/1879306)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCb)
+  * [百度云下载](http://pan.baidu.com/s/1qWp2JiW)
 
 ## Linux教程
 
@@ -200,6 +216,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7998555)
   * [51CTO下载](http://down.51cto.com/data/1879562)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlC0)
+  * [百度云下载](http://pan.baidu.com/s/1ntxGugD)
 
 ## MongoDB教程
 
@@ -210,6 +227,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994889)
   * [51CTO下载](http://down.51cto.com/data/1878951)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlB-)
+  * [百度云下载](http://pan.baidu.com/s/1bn0c8z1)
 
 ## Node.js教程
 
@@ -220,6 +238,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8083187)
   * [51CTO下载](http://down.51cto.com/data/1889497)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBH)
+  * [百度云下载](http://pan.baidu.com/s/1mgn9bz6)
 
 ## PHP教程
 
@@ -230,6 +249,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084927)
   * [51CTO下载](http://down.51cto.com/data/1889382)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlC1)
+  * [百度云下载](http://pan.baidu.com/s/1dDD5HDZ)
 
 ## PHP参考手册
 
@@ -240,6 +260,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8096357)
   * [51CTO下载](http://down.51cto.com/data/1891817)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCw)
+  * [百度云下载](http://pan.baidu.com/s/1bnCTQAr)
 
 ## Python教程
 
@@ -251,6 +272,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8082981)
   * [51CTO下载](http://down.51cto.com/data/1889441)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBG)
+  * [百度云下载](http://pan.baidu.com/s/1dKcXK)
 
 ## Redis教程
 
@@ -261,6 +283,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8309295)
   * [51CTO下载](http://down.51cto.com/data/1967857)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCu)
+  * [百度云下载](http://pan.baidu.com/s/1dDpjlmT)
 
 ## Ruby教程
 
@@ -271,6 +294,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994869)
   * [51CTO下载](http://down.51cto.com/data/1878950)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCn)
+  * [百度云下载](http://pan.baidu.com/s/1hqGh2ks)
 
 ## SQL教程
 
@@ -283,6 +307,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7996483)
   * [51CTO下载](http://down.51cto.com/data/1879070)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCr)
+  * [百度云下载](http://pan.baidu.com/s/1tZa0m)
 
 ## VBS &amp; ASP教程
 
@@ -295,6 +320,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994655)
   * [51CTO下载](http://down.51cto.com/data/1878916)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBJ)
+  * [百度云下载](http://pan.baidu.com/s/12M3mA)
 
 ## XML教程
 
@@ -319,6 +345,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7996259)
   * [51CTO下载](http://down.51cto.com/data/1879035)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCk)
+  * [百度云下载](http://pan.baidu.com/s/1jGpEYyi)
 
 ## 设计模式教程
 
@@ -329,6 +356,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995871)
   * [51CTO下载](http://down.51cto.com/data/1879010)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlC2)
+  * [百度云下载](http://pan.baidu.com/s/1gdeVH2j)
 
 ## 网站建设教程
 
@@ -347,6 +375,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8175147)
   * [51CTO下载](http://down.51cto.com/data/1901422)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBK)
+  * [百度云下载](http://pan.baidu.com/s/1c0vqQEO)
 
 ## 正则表达式教程
 
@@ -357,6 +386,7 @@ date: 2013-09-29 23:43:39
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995407)
   * [51CTO下载](http://down.51cto.com/data/1878988)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCs)
+  * [百度云下载](http://pan.baidu.com/s/1kTqYTTH)
 
 * * *
 
