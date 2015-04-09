@@ -68,6 +68,7 @@ tags:
   * [图灵社区电子书](http://www.ituring.com.cn/book/ebook)
   * [计算机书籍控](http://bestcbooks.com/)
   * [kindle114](http://www.kindle114.com/forumtype-2-1-1.html)
+  * [SaltTiger](http://www.salttiger.com/)
 * [reSRC](http://resrc.io/list/10/list-of-free-programming-books/)
 * [免费的编程中文书籍索引](/free-programming)
 * [一份关于“资料汇总”的汇总](https://github.com/justjavac/awesome-awesomeness-zh_CN)
