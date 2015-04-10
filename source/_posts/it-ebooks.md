@@ -362,6 +362,9 @@ tags:
 
 * pro git 中文第一版 （文字版）
   * [在线阅读](http://git-scm.com/book/zh/v1)
+  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582235)
+  * [51CTO下载](http://down.51cto.com/data/2037756)
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIDx9)
 
 ## 图形
 
