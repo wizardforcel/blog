@@ -22,7 +22,8 @@ tags:
 ## Apache ##
 
 + 官方文档
-  + [在线浏览](http://man.chinaunix.net/newsoft/Apache2.2_chinese_manual/index.html)
+  + [在线浏览](http://httpd.apache.org/docs/2.2/zh-cn/)
+  + [离线下载](http://www.veryhuo.com/down/html/40810.html)
 
 ## ASP ##
 
@@ -83,14 +84,18 @@ tags:
 
 ## C# ##
 
-+ MSDN 官方文档
++ MSDN 编程指南 + 参考手册
   + [在线浏览](http://shouce.jb51.net/net/index.html)
   + 离线下载
     + [CSDN下载](http://download.csdn.net/detail/tom0829/3497346#comment)
-    + [51CTO下载](http://down.51cto.com/data/2037867)
+    + [51CTO下载](http://down.51cto.com/data/465531)
     + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIHRP)
-+ MSDN API参考
++ .net 4.0 类库参考手册
   + [在线浏览](http://msdn.microsoft.com/zh-cn/library/gg145045.aspx)
+  + 离线下载
+    + [CSDN下载](http://download.csdn.net/download/zplinuxx/2556476)
+    + [51CTO下载](http://down.51cto.com/data/1040355)
+    + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIU5s)
 
 ## Django ##
 
@@ -244,14 +249,12 @@ tags:
 
 ## Python ##
 
-+ Py2 官方文档
-  + 在线浏览
-    + [教程](http://python.usyiyi.cn/python_278/tutorial/index.html)
-    + [语言参考](http://python.usyiyi.cn/python_278/reference/index.html)
-    + [标准库参考](http://python.usyiyi.cn/python_278/library/index.html)
-+ Py3 官方文档
-  + 在线浏览
-    + [教程](http://python.usyiyi.cn/python_341/tutorial/index.html)
++ Py2 Py3 官方文档
+  + [在线浏览](http://python.usyiyi.cn)
+  + 离线下载
+    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8584309)
+    + [51CTO下载](http://down.51cto.com/data/2037891)
+    + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIRDN)
 
 ## QT ##
 
