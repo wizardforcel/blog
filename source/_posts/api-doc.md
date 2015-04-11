@@ -85,6 +85,10 @@ tags:
 
 + MSDN 官方文档
   + [在线浏览](http://shouce.jb51.net/net/index.html)
+  + 离线下载
+    + [CSDN下载](http://download.csdn.net/detail/tom0829/3497346#comment)
+    + [51CTO下载](http://down.51cto.com/data/2037867)
+    + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIHRP)
 + MSDN API参考
   + [在线浏览](http://msdn.microsoft.com/zh-cn/library/gg145045.aspx)
 
@@ -210,11 +214,19 @@ tags:
 
 + 官方文档
   + [在线浏览](http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/)
+  + 离线下载
+    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8583557)
+    + [51CTO下载](http://down.51cto.com/data/2037837)
+    + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIHBX)
   
 ## Nginx ##
 
 + 官方文档
   + [在线浏览](http://www.nginx.cn/doc/)
+  + 离线下载
+    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8583833)
+    + [51CTO下载](http://down.51cto.com/data/2037844)
+    + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIH9z)
 
 ## Node.js ##
 
