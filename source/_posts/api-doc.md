@@ -118,6 +118,13 @@ tags:
     + [51CTO下载](http://down.51cto.com/data/2037756)
     + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIDx9)
 
+## hibernate ##
+
++ 官方文档
+  + 离线下载
+    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8588159)
+    + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIgUi)
+
 ## HTML ##
 
 + w3cschool API参考
@@ -285,8 +292,9 @@ tags:
 + 官方文档
   + [离线下载](http://www.cr173.com/soft/66146.html)
 + 官方API参考
-  + [在线浏览（英文）](http://docs.spring.io/spring/docs/current/javadoc-api/)
-  + [离线下载（英文）](http://kapeli.com/docset_links)
+  + 离线下载
+    + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8588163)
+    + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIgTf)
 
 ## Sql ##
 

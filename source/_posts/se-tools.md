@@ -95,6 +95,18 @@ ZkAt8b701hD2xW/DpZV1yz9AWuT5JQGlioNPOfqN2sal614Sato7+OX++W/qzAT2L+To5a30nKTWtP6F
 
 <!-- matlab -->
 
+## mind manager 9 ##
+
+序列号：
+
+```
+MP93-617-CP79-BEEB-82A1
+MP91-555-BP69-BAF8-7A56
+MP9M-959-APE2-E673-82BA
+```
+
+[PC6下载](http://www.pc6.com/softview/SoftView_49795.html)
+
 ## mysql
 
 最流行的关系型数据库管理系统，由瑞典MySQL AB公司开发，目前属于Oracle公司。
@@ -132,13 +144,37 @@ navicat出品的sqlite图形化管理软件。在体验和易用性方面还是�
 装机必备办公工具，包含Word/PPT/Excel等。
 
 [官方下载](http://office.microsoft.com/zh-cn/products/?CTT=97)
-[office toolkit](http://microsofttoolkit.com/)
+[office toolkit](http://vdisk.weibo.com/s/aADaW4YRODsfU)
 
-## photoshop cs3 精简版
+## photoshop ##
 
- 设计必备软件，专业图形设计与处理。
+设计必备软件，专业图形设计与处理。
+
+**软件均已注册激活，安装目录下的`amtlib.dll`是破解补丁，覆盖到任何相同版本未注册的PS上即可为其注册。**
+
+### cs2 精简版 ###
+
+[绿色先锋下载](http://www.greenxf.com/soft/15565.html)
+
+### cs3 精简版 ###
 
 [当下软件下载](http://www.downxia.com/downinfo/3560.html)
+
+### cs4 精简版 ###
+
+[ZOL下载](http://xiazai.zol.com.cn/detail/41/406130.shtml)
+
+### cs5 精简版 ##
+
+[创E下载](http://www.7edown.com/soft/down/soft_643.html)
+
+### cs6 精简版 ###
+
+[系统之家下载](http://www.xp510.com/xiazai/Graphics/ImageProces/16483.html)
+
+### cc 精简版 ###
+
+[系统之家下载](http://www.xp510.com/xiazai/Graphics/ImageProces/22428.html)
 
 ## php
 
