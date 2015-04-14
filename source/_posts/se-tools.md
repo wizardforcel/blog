@@ -95,7 +95,9 @@ ZkAt8b701hD2xW/DpZV1yz9AWuT5JQGlioNPOfqN2sal614Sato7+OX++W/qzAT2L+To5a30nKTWtP6F
 
 <!-- matlab -->
 
-## mind manager 9 ##
+## mind manager ##
+
+### v9 ###
 
 序列号：
 
@@ -105,7 +107,45 @@ MP91-555-BP69-BAF8-7A56
 MP9M-959-APE2-E673-82BA
 ```
 
-[PC6下载](http://www.pc6.com/softview/SoftView_49795.html)
+[系统之家下载](http://www.xitongzhijia.net/soft/24290.html)
+
+### 2012 ###
+
+序列号：
+
+```
+MP10-484-CP49-D555-22M2
+MP10-988-7P45-2A87-M118
+MP10-959-2PD8-291E-D7D4
+MP10-771-9P43-3AB1-A798
+MP10-518-DP5M-A5DF-F99A
+MP10-733-3P1E-FE7A-D3BM
+```
+
+[PC6下载](http://www.pc6.com/softview/SoftView_53990.html)
+[汉化包](http://www.cr173.com/soft/42249.html)
+
+### 2014 ###
+
+序列号：
+
+```
+MP74-498-BP4E-D6CF-AEB5
+MP78-812-2P94-D1DM-35F3
+MP74-987-BPC7 -41DE-E3FF
+```
+
+[绿色先锋下载](http://www.greenxf.com/soft/53111.html)
+
+### 2015 ###
+
+序列号：
+
+```
+MP15-M19-9P23-876A-9999
+```
+
+[PC6下载](http://www.pc6.com/softview/SoftView_58828.html)
 
 ## mysql
 
@@ -170,11 +210,11 @@ navicat出品的sqlite图形化管理软件。在体验和易用性方面还是�
 
 ### cs6 精简版 ###
 
-[系统之家下载](http://www.xp510.com/xiazai/Graphics/ImageProces/16483.html)
+[XP510下载](http://www.xp510.com/xiazai/Graphics/ImageProces/16483.html)
 
 ### cc 精简版 ###
 
-[系统之家下载](http://www.xp510.com/xiazai/Graphics/ImageProces/22428.html)
+[XP510下载](http://www.xp510.com/xiazai/Graphics/ImageProces/22428.html)
 
 ## php
 
