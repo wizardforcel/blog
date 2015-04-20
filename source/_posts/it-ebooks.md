@@ -297,6 +297,9 @@ tags:
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROA2qT)
   * [百度云下载](http://pan.baidu.com/s/1o6ifeFw)
   * [MEGA下载](https://mega.co.nz/#!SU8ihbrb!mXC6GSVVqQRgmz0Zj-z04SSMsD3RE4iHCe3LbqIc9mc)
+* 构建之法：现代软件工程 （文字版）
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROATTv)
+  * [百度云下载](http://pan.baidu.com/s/1dDgwi2H)
 
 ## 编译
 
