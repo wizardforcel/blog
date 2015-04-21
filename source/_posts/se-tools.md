@@ -93,7 +93,12 @@ ZkAt8b701hD2xW/DpZV1yz9AWuT5JQGlioNPOfqN2sal614Sato7+OX++W/qzAT2L+To5a30nKTWtP6F
 
 [官方下载](http://www.markdownpad.com/download.html)
 
-<!-- matlab -->
+## matlab r2012b ##
+
+数据分析，科学计算的利器。编程语言中的“航天飞机”。
+
+[百度云下载](http://pan.baidu.com/share/link?uk=655076662&shareid=647565115)
+[license & key](http://vdisk.weibo.com/s/aADaW4YROBEKj)
 
 ## mind manager ##
 
