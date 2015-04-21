@@ -18,13 +18,6 @@ tags:
 
 * [你好，C++](http://zhuanlan.zhihu.com/nihaoCPP)
 
-## web开发
-
-* [ITBegin](http://www.itbegin.com/)
-* w3(c)school - web开发教程
-  * [在线版](http://www.w3cschool.cc)
-  * [离线版](/w3school)
-
 ## 前端
 
 * [The Web platform: Browser technologies](https://platform.html5.org/)
@@ -79,9 +72,10 @@ tags:
   * [图灵教育](http://weibo.com/turingbooks)
   * [博文视点](http://weibo.com/broadviewbj)
   * [华章图书](http://weibo.com/hzbookscience)
-* 各种语言的API文档
-  * [在线版](/api-doc)
-  * [离线版（docset格式）](http://kapeli.com/docset_links)
+* w3(c)school - web开发教程
+  * [在线版](http://www.w3cschool.cc)
+  * [离线版](/w3school)
+* [各种语言的API文档（docset格式）](http://kapeli.com/docset_links)
 * 速查表
   * [cheat-sheets](http://www.cheat-sheets.org/)
   * [OverApi](http://overapi.com/) - 又一个速查表网站

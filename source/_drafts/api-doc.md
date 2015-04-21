@@ -14,11 +14,6 @@ tags:
   + [在线浏览（英文）](http://developers.androidcn.com/reference/packages.html)
   + [离线下载（英文）](http://kapeli.com/docset_links)
 
-## AngularJS ##
-
-+ 官方文档
-  + [在线浏览](http://www.apjs.net/)
-
 ## Apache ##
 
 + 官方文档
