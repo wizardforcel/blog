@@ -73,9 +73,11 @@ tags:
 * java 核心技术 卷一 中文版 8e （文字版）
   * [百度云下载](http://pan.baidu.com/s/1o61caUm)
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPbmfJ)
+  * [MEGA下载](https://mega.co.nz/#!XBFjTRgQ!3wZDUqz7nFANHJlrQXC5fW0rVhvXu_j7mGLYAW0gHD8)
 * java 核心技术 卷二 中文版 8e （扫描版 13.8M）
   * [百度云下载](http://pan.baidu.com/s/1qWBNtyk)
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPb0LE)
+  * [MEGA下载](https://mega.co.nz/#!Hd8lyRqS!nBAa9MXqnAFl7QuBRigW3dt5yOHzYYy5k98y9Hg_pL0)
 * java web 整合开发 王者归来 （扫描版 18.2M）
   * [百度云下载](http://pan.baidu.com/s/1ntqo0cT)
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROAA_0)
@@ -204,6 +206,7 @@ tags:
 * 算法 中文版 4e （扫描版 4.3M）
   * [百度云下载](http://pan.baidu.com/s/1pJE7neF)
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPbn_N)
+  * [MEGA下载](https://mega.co.nz/#!qIcS0DZL!fB7TNVtM7fC4Dq0qEI_5C2euhV8Iy47YXjc9xJhY2cQ)
 * 大话数据结构 （文字版）
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPhFif)
   * [百度云下载](http://pan.baidu.com/s/1eQcUNpo)
@@ -300,6 +303,7 @@ tags:
 * 构建之法：现代软件工程 （文字版）
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROATTv)
   * [百度云下载](http://pan.baidu.com/s/1dDgwi2H)
+  * [MEGA下载](https://mega.co.nz/#!KFtSHRqL!M04bJbtgr8Ahd7EcTePYKTE_ffNx99iARfI7kkbxkgI)
 
 ## 编译
 
