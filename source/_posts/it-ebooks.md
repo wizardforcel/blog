@@ -364,6 +364,9 @@ tags:
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROrLlY)
   * [百度云下载](http://pan.baidu.com/s/1ntsqql7)
   * [MEGA下载](https://mega.co.nz/#!XQ1yyD6b!tI58wXC-5a3CH-i6XpKXuFypDK7kXGuUpQ9NwoYxoOI)
+* 数据挖掘十大算法 中文版 （扫描版 6.87M）
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVJhx)
+  * [MEGA下载](https://mega.co.nz/#!zB8UWCBJ!k0yrjjHyZvVpV1i91s8aLtdvKOxfmhG6KScNeqDunPk)
 
 ## 版本控制 ##
 
