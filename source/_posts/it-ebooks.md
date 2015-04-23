@@ -227,9 +227,8 @@ tags:
   * [百度云下载](http://pan.baidu.com/s/1i3DwBpb)
   * [MEGA下载](https://mega.co.nz/#!LR8SyLqD!u3LuEETLLRJMpVIWWnrcUda5I-cj119W5XkrGgjZsC8)
 * 程序员的数学 （扫描版1.81M）
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPbNUV)
-  * [百度云下载](http://pan.baidu.com/s/1o6MGGR4)
-  * [MEGA下载](https://mega.co.nz/#!PNESWbBI!mYDErxti6TnwZe37PnCpXzn3zUbd8_KIvniGycPLsVg)
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROWm96)
+  * [MEGA下载](https://mega.co.nz/#!nd0nmILZ!ajEycGBobEEEXMAdA1Pcem6N1IafH7p_s54XqrfZxc8)
 
 ## 编程思想
 
