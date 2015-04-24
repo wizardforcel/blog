@@ -264,6 +264,12 @@ tags:
   * [百度云下载](http://pan.baidu.com/s/1lRoAE)
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROzSH5)
   * [MEGA下载](https://mega.co.nz/#!WM9FTI5Q!5l9Se6NblB-lqVRHG0n_Nk9uxoS6-pZ62aoHzFT5tRY)
+* 编程珠玑（第二版） （扫描版 6.02M）
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROWbgc)
+  * [MEGA下载](https://mega.co.nz/#!nMsCgIqC!J1-ipYfpPVsisJupIMDy6id5tgXqZIcLIoeuJWd9itk)
+* 编程珠玑II （编程珠玑·续） （扫描版 6.56M）
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROWaMC)
+  * [MEGA下载](https://mega.co.nz/#!eElUzLxQ!NGRyGH_KDWQGUlo8XhUTOHsae2y6gV5j0f0PHuiynTI)
 
 ## 工程
 
@@ -366,6 +372,9 @@ tags:
 * 数据挖掘十大算法 中文版 （扫描版 6.87M）
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVJhx)
   * [MEGA下载](https://mega.co.nz/#!zB8UWCBJ!k0yrjjHyZvVpV1i91s8aLtdvKOxfmhG6KScNeqDunPk)
+* weka应用技术与实践 （扫描版 14.5M）
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVRaA)
+  * [MEGA下载](https://mega.co.nz/#!SJN0WK6Y!2aJ3IDPtx24k4AZMH4seNEjgCEKlxgI1MiHdtjr1LdI)
 
 ## 版本控制 ##
 
@@ -478,10 +487,9 @@ tags:
 
 ## 汇编 &amp; 逆向
 
-* 微软.NET程序的加密与解密 （扫描版 5.73M）
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPb4hD)
-  * [百度云下载](http://pan.baidu.com/s/1hq08uTe)
-  * [MEGA下载](https://mega.co.nz/#!KZ1jSK4a!MBlDUeziY0Ch5foQPDjBBBVHnbF5OTvbnMW96iwH1vU)
+* 微软.NET程序的加密与解密 （扫描版 12.4M）
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROVTzj)
+  * [MEGA下载](https://mega.co.nz/#!SdkR0DrB!KN_-pDbJXWkdkUEI1kxwL_s1A2vb8h94KVGFBnZDMLQ)
 * 加密与解密 3e （文字版）
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROA2Pw)
   * [百度云下载](http://pan.baidu.com/s/1sjFiY3z)
