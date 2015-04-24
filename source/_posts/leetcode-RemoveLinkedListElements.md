@@ -1,4 +1,5 @@
 title: leetcode 新题 RemoveLinkedListElements
+categories:
   - 编程
 date: 2015-04-24 22:47:00
 ---
