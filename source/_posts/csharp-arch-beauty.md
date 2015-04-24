@@ -5,6 +5,8 @@ date: 2015-04-24 13:35:00
 tags:
 ---
 
+**我不是架构师，但我见得太多了。**
+
 在java要是想读文件，我们首先会想到`FileReader`。然而，`FileReader`不支持自定义编码，所以还是得用`InputStreamReader`搭配`FileInputStream`来使用。这样折腾了一遍之后，我们又发现它不支持读整行，于是外面还得用`BufferedStreamReader`包起来。
 
 就是这个样子：
@@ -29,6 +31,10 @@ StreamReader (String path, Encoding encoding)
 ```
 
 其实，传入string的构造器只是包装了一层，在里面new出一个FileInputStream。但是就是这个小小的改变，却给程序员省了不少代码。
+
+```
+StreamReader sr = new StreamReader(fileName, encoding);
+```
 
 于是我每次写java的东西，都要把要用到的reader包装一下：
 
