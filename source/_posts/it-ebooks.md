@@ -60,9 +60,9 @@ tags:
 
 ## HTML ##
 
-* HTML5权威指南（英文版） （文字版）
-  * [百度云下载](http://pan.baidu.com/s/1eQjHxVc)
-  * [MEGA下载](https://mega.co.nz/#!TZESgLjZ!9yQhx8cBae-uPwJNmaVjcVdCrYBQiM2CHkzyZKWhLZE)
+* HTML5权威指南（中文版） （扫描版 19.6M）
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROLEyJ)
+  * [MEGA下载](https://mega.co.nz/#!GU1FHYqA!urAeqWRVbXZ8CXXlkw4TCvAMEeIbNb2LdVuEsH_D1hY)
 
 ## Java
 
