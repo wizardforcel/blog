@@ -476,10 +476,9 @@ tags:
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROUdxQ)
   * [百度云下载](http://pan.baidu.com/s/1mg7kA0K)
   * [MEGA下载](https://mega.co.nz/#!aI0HCB7T!4yJ6OqKSF_FbH7mAk1Ff9tKmr_Xcxq4TBIbuXfQF_fE)
-* 渗透测试实践指南 英文第二版 （文字版）
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROrW-M)
-  * [百度云下载](http://pan.baidu.com/s/1c0lMNgk)
-  * [MEGA下载](https://mega.co.nz/#!KJtjVSrY!eeuceGSRPbta6CaTiSRk8d4BybNxOLMM326sHK6R9Ag)
+* 渗透测试实践指南 中文第一版 （扫描版 7.54M）
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROLzkG)
+  * [MEGA下载](https://mega.co.nz/#!DJEnCRAI!0KWubUjz_Ks9E5HpjocaPv1MpPQmhmRRjK3vwe6nRuQ)
 * 灰帽黑客（中文版） （扫描版14.4M）
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPa-Gk)
   * [百度云下载](http://pan.baidu.com/s/1o6FVgiY)
