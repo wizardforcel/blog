@@ -358,10 +358,13 @@ tags:
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROSVi3)
   * [百度云下载](http://pan.baidu.com/s/1eQGQ7aa)
   * [MEGA下载](https://mega.co.nz/#!OE9iCCwR!i5riSCc9WTILbqAh3OZsfwQA8eZ8Zpn5RTZS99-whhs)
+
+<!--
 * 大话数据库 （扫描版 11.4M）
   * [百度云下载](http://pan.baidu.com/s/1qWHmIWc)
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP13y5)
   * [MEGA下载](https://mega.co.nz/#!eUdkyJ7S!TcXyWM5HJKpbbRlgFKs1cQDLeX-k1EgpevVpgmxy4I8)
+-->
 
 ## 数据挖掘 ##
 
@@ -448,10 +451,6 @@ tags:
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1H91)
   * [百度云下载](http://pan.baidu.com/s/1jGvKh6I)
   * [MEGA下载](https://mega.co.nz/#!aEVGzQ5b!60ikBvuOpmyzj6pJ0b0sSwm7Ufv1Zj54rAgRjCVDhUs)
-* sql注入攻击与防御 中文第一版 （扫描版 7.07M）
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1k2e)
-  * [百度云下载](http://pan.baidu.com/s/1c0jfjTA)
-  * [MEGA下载](https://mega.co.nz/#!GUEUBZjI!Lcf-yPzXxBQbvvGshrAP8BG1F2R9a0mbyVJIk51v1pY)
 * 黑客攻防技术宝典：web实战篇 2e （文字版）
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROSgb5)
   * [百度云下载](http://pan.baidu.com/s/1hqkYvRm)
@@ -484,6 +483,13 @@ tags:
   * [百度云下载](http://pan.baidu.com/s/1o6FVgiY)
   * [MEGA下载](https://mega.co.nz/#!bJkQ3LKC!si0bg0UISrBZg6pULYhWpfovRGlXVCytzaqC5RYPdEo)
 
+<!--
+* sql注入攻击与防御 中文第一版 （扫描版 7.07M）
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP1k2e)
+  * [百度云下载](http://pan.baidu.com/s/1c0jfjTA)
+  * [MEGA下载](https://mega.co.nz/#!GUEUBZjI!Lcf-yPzXxBQbvvGshrAP8BG1F2R9a0mbyVJIk51v1pY)
+-->
+
 ## 汇编 &amp; 逆向
 
 * 微软.NET程序的加密与解密 （扫描版 12.4M）
@@ -505,7 +511,7 @@ tags:
   * [百度云下载](http://pan.baidu.com/s/1ntuX5RN)
   * [MEGA下载](https://mega.co.nz/#!GBsFxIZS!dB5f_tRXWadjGb2kbZHRwuMnpTVo2QRk36Cr9kW1wcw)
 
-<div style='display:none;'>
+<!--
 ## 产品 ##
 
 * 人人都是产品经理 （文字版）
@@ -539,4 +545,4 @@ tags:
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YROvnYI)
   * [百度云下载](http://pan.baidu.com/s/1sj9I1Gh)
   * [MEGA下载](https://mega.co.nz/#!aZlDwRIL!8hwNlouE8c5wKRg2Y3cl_2tdp_AUAnGWC_exvssALJI)
-</div>
+-->
