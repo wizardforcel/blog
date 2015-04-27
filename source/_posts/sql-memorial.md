@@ -4,7 +4,7 @@ categories:
 date: 2015-04-27 16:10:00
 ---
 
-自己总结了一份sql的备忘录，比w3school的那份全一些。
+自己总结了一份sql的备忘录，比w3school的那份全一些。另外leetcode上面新增了几道编写sql的题目，大家可以去刷几道感受感受。
 
 <!-- more -->
 
@@ -218,6 +218,7 @@ DROP COLUMN col
 ```
 ALTER TABLE table
 ADD constrait
+```
 
 ## ALTER TABLE ... ALTER ##
 
