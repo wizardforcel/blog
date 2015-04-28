@@ -35,7 +35,6 @@ tags:
 ## 网络安全
 
 * [安全参考前23期](http://yun.baidu.com/pcloud/album/info?query_uk=1379004958&album_id=4453935695511057059)
-* [小迪渗透视频教程](http://pan.baidu.com/s/1i3mViIT)
 
 ## 汇编 &amp; 逆向
 
@@ -61,6 +60,7 @@ tags:
   * [it-ebooks.mobi](http://it-ebooks.mobi/)
   * [it-ebooks.org](http://it-ebooks.org/)
   * [it-ebooks.com](http://www.it-ebooks.com/)
+  * [ebooks-it.net](https://www.ebooks-it.net/)
   * [脚本之家电子书](http://www.jb51.net/books/)
   * [图灵社区电子书](http://www.ituring.com.cn/book/ebook)
   * [计算机书籍控](http://bestcbooks.com/)
