@@ -56,11 +56,14 @@ tags:
 
 * 计算机图书
   * [龙哥盟 - 计算机电子书](/it-ebooks)
-  * [it-ebooks](http://it-ebooks.info/) - 上万本英文原版电子书文字版
+  * [it-ebooks.cn](http://it-ebooks.cn/)
+  * [it-ebooks.info](http://it-ebooks.info/)
+  * [it-ebooks.mobi](http://it-ebooks.mobi/)
+  * [it-ebooks.org](http://it-ebooks.org/)
+  * [it-ebooks.com](http://www.it-ebooks.com/)
   * [脚本之家电子书](http://www.jb51.net/books/)
   * [图灵社区电子书](http://www.ituring.com.cn/book/ebook)
   * [计算机书籍控](http://bestcbooks.com/)
-  * [kindle114](http://www.kindle114.com/forumtype-2-1-1.html)
   * [SaltTiger](http://www.salttiger.com/)
 * [reSRC](http://resrc.io/list/10/list-of-free-programming-books/)
 * [免费的编程中文书籍索引](/free-programming)
