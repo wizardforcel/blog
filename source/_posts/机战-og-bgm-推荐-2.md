@@ -10,6 +10,8 @@ categories:
 
 http://music.163.com/#/playlist?id=71037728
 
+<!--more-->
+
 ## Desire ##
 
 机战D男主角Joshua的BGM。有一个remix过的版本，主旋律用小提琴配的，很好听。
