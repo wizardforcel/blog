@@ -76,7 +76,7 @@ http://music.163.com/#/playlist?id=71037728
 
 不过比英哥的那首燃很多就是了。
 
-<iframe src="http://www.tudou.com/programs/view/html5embed.action?type=1&code=RRhoKUrNfRQ&lcode=_wUa1BHpZ28&resourceId=0_06_05_99" allowtransparency="true" allowfullscreen="true" allowfullscreenInteractive="true" scrolling="no" border="0" frameborder="0" style="width:480px;height:400px;"></iframe>
+<embed src="http://www.xiami.com/widget/0_1769928569/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 
 ## THE GUN OF DIS ##
 
