@@ -1,10 +1,10 @@
-title: xss ����¼
+title: xss 备忘录
 categories:
-  - ��ȫ
+  - 安全
 date: 2015-04-27 17:10:00
 ---
 
-����ҵ��Ӧ�üܹ������ſ����ᵽ��xss���������һЩ���õ���������������
+“企业级应用架构”这门课上提到了xss，在这里把一些常用的资料做个备忘。
 
 <!--more-->
 
@@ -12,13 +12,13 @@ date: 2015-04-27 17:10:00
 
 http://drops.wooyun.org/tips/1955
 
-## ɨ�蹤�� ##
+## 扫描工具 ##
 
 ![](http://image.webreader.duokan.com/mfsv2/download/s010/p01c8C61NADB/bllx3WsLhjwNrS.jpg)
 
-## ���˺��� ##
+## 过滤函数 ##
 
-��Ҫ��ת��and��С�ںš����ںź��������š�
+主要是转义and、小于号、大于号和两个引号。
 
 ```
 function htmlEnco(s)
