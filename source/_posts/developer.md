@@ -35,6 +35,7 @@ tags:
 ## 网络安全
 
 * [安全参考前23期](http://yun.baidu.com/pcloud/album/info?query_uk=1379004958&album_id=4453935695511057059)
+* [XSS Cheat Sheet](http://drops.wooyun.org/tips/1955)
 
 ## 汇编 &amp; 逆向
 
