@@ -185,6 +185,7 @@ MP15-M19-9P23-876A-9999
 navicat出品的sqlite图形化管理软件。在体验和易用性方面还是比较不错的。
 
 [官方下载](http://www.navicat.com.cn/products/navicat-for-sqlite)
+
 [软件+破解补丁下载](http://download.csdn.net/detail/zar19901007/6417605)
 
 ## .net framework
@@ -192,6 +193,7 @@ navicat出品的sqlite图形化管理软件。在体验和易用性方面还是�
 .net运行环境，包括.net虚拟机和类库等。
 
 [CRSKY下载(2.0)](http://www.crsky.com/soft/4818.html)
+
 [CRSKY下载(4.0)](http://www.crsky.com/soft/6959.html)
 
 ## netbeans
@@ -211,6 +213,7 @@ navicat出品的sqlite图形化管理软件。在体验和易用性方面还是�
 装机必备办公工具，包含Word/PPT/Excel等。
 
 [官方下载](http://office.microsoft.com/zh-cn/products/?CTT=97)
+
 [office toolkit](http://vdisk.weibo.com/s/aADaW4YRODsfU)
 
 ## photoshop ##
@@ -218,6 +221,8 @@ navicat出品的sqlite图形化管理软件。在体验和易用性方面还是�
 设计必备软件，专业图形设计与处理。
 
 **软件均已注册激活，安装目录下的`amtlib.dll`是破解补丁，覆盖到任何相同版本未注册的PS上即可为其注册。**
+
+[cs4~cc破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-9lP)
 
 ### cs2 精简版 ###
 
@@ -243,23 +248,27 @@ navicat出品的sqlite图形化管理软件。在体验和易用性方面还是�
 
 [XP510下载](http://www.xp510.com/xiazai/Graphics/ImageProces/22428.html)
 
-***
-
-[cs4~cc破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-9lP)
-
 ## php
 
 PHP（PHP: Hypertext Preprocessor，超文本预处理器）是一种通用开源脚本语言。语法吸收了C语言、Java和Perl的特点，利于学习，使用广泛，主要适用于Web开发领域。
 
 [官方下载](http://php.net/downloads.php)
 
-## powerdesigner
+## powerdesigner ##
 
 windows上最好用的uml建模工具。
 
-[CR173下载（软件+补丁）](http://www.cr173.com/soft/23650.html)
+### pd15 ###
 
-[pd15破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-LQ9)
+[CR173下载](http://www.cr173.com/soft/23650.html)
+
+[破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-LQ9)
+
+### pd16 ###
+
+[官方下载](https://s3.amazonaws.com/powerdesigner/PowerDesigner165SP04/16.5.SP04.PL01.4535.FullPDESx86.zip)
+
+[破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-Lgn)
 
 ## prezi
 
