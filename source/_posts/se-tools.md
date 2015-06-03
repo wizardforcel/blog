@@ -18,6 +18,26 @@ tags:
 
 [官方下载](http://sparanoid.com/lab/7z/)
 
+## acrobat pro ##
+
+### acrobat pro x ###
+
+[PC6下载](http://www.pc6.com/softview/SoftView_59267.html)
+
+[破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-LQ9)
+
+### acrobat pro xi ###
+
+[百度软件下载](http://rj.baidu.com/soft/detail/27081.html?ald)
+
+[破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-8TA)
+
+### acrobat pro dc ###
+
+[闪电下载](http://www.sdbeta.com/xiazai/2015/0409/30465.html)
+
+[破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-8RP)
+
 ## android studio
 
 谷歌基于intelij开发的安卓开发工具。
@@ -98,6 +118,7 @@ ZkAt8b701hD2xW/DpZV1yz9AWuT5JQGlioNPOfqN2sal614Sato7+OX++W/qzAT2L+To5a30nKTWtP6F
 数据分析，科学计算的利器。编程语言中的“航天飞机”。
 
 [百度云下载](http://pan.baidu.com/share/link?uk=655076662&shareid=647565115)
+
 [license & key](http://vdisk.weibo.com/s/aADaW4YROBEKj)
 
 ## mind manager ##
@@ -128,6 +149,7 @@ MP10-733-3P1E-FE7A-D3BM
 ```
 
 [PC6下载](http://www.pc6.com/softview/SoftView_53990.html)
+
 [汉化包](http://www.cr173.com/soft/42249.html)
 
 ### 2014 ###
@@ -221,6 +243,10 @@ navicat出品的sqlite图形化管理软件。在体验和易用性方面还是�
 
 [XP510下载](http://www.xp510.com/xiazai/Graphics/ImageProces/22428.html)
 
+***
+
+[cs4~cc破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-9lP)
+
 ## php
 
 PHP（PHP: Hypertext Preprocessor，超文本预处理器）是一种通用开源脚本语言。语法吸收了C语言、Java和Perl的特点，利于学习，使用广泛，主要适用于Web开发领域。
@@ -232,6 +258,8 @@ PHP（PHP: Hypertext Preprocessor，超文本预处理器）是一种通用开�
 windows上最好用的uml建模工具。
 
 [CR173下载（软件+补丁）](http://www.cr173.com/soft/23650.html)
+
+[pd15破解补丁](http://vdisk.weibo.com/s/aADaW4YRE-LQ9)
 
 ## prezi
 
@@ -348,4 +376,5 @@ HA01E-DYL1Q-AZ7V8-419Q2-9C050
 开源的API文档浏览工具，支持dash的所有文档（docset格式）。
 
 [官方下载](http://zealdocs.org/download.html)
+
 [docset文档下载](http://kapeli.com/docset_links)

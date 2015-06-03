@@ -29,6 +29,7 @@ tags:
 
 * [VisuAlgo](http://visualgo.net/) - 看动画学算法
 * [leetcode题解](https://github.com/soulmachine/leetcode)
+* [Acm Cheat Sheet](https://github.com/soulmachine/acm-cheat-sheet)
 * [啊哈！算法](http://www.cnblogs.com/ahalei/category/554795.html)
 * [List of algorithms](http://en.wikipedia.org/wiki/List_of_algorithms)
 
@@ -58,10 +59,11 @@ tags:
   * [龙哥盟 - 计算机电子书](/it-ebooks)
   * [it-ebooks.cn](http://it-ebooks.cn/)
   * [it-ebooks.info](http://it-ebooks.info/)
-  * [it-ebooks.mobi](http://it-ebooks.mobi/)
   * [it-ebooks.org](http://it-ebooks.org/)
   * [it-ebooks.com](http://www.it-ebooks.com/)
   * [ebooks-it.net](https://www.ebooks-it.net/)
+  * [wowebook.org](http://www.wowebook.org/)
+  * [bookdl.com](http://bookdl.com/)
   * [脚本之家电子书](http://www.jb51.net/books/)
   * [图灵社区电子书](http://www.ituring.com.cn/book/ebook)
   * [计算机书籍控](http://bestcbooks.com/)
@@ -112,7 +114,7 @@ tags:
 
 * [CSDN](http://www.csdn.net/)
 * [51CTO](http://www.51cto.com/)
-* [V2EX](http://v2ex.com/)
+* [V2EX](https://v2ex.com/)
 
 # 问答平台
 
