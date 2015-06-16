@@ -57,6 +57,19 @@ tags:
 
 [ApacheHaus下载](http://www.apachehaus.com/cgi-bin/download.plx)
 
+## axure 7 ##
+
+专业的快速原型设计工具。
+
+```
+用户名：aaa
+注册码1：h624pifAqt7It5e8boKkML+Y4RjDX5xknP4k7QktJYQoxsvv7VUS7hBCv/2ef45P 
+注册码2：2GQrt5XHYY7SBK/4b22Gm4Dh8alaR0/0k3gEN5h7FkVPIn8oG3uphlOeytIajxGU 
+注册码3：+f4T7ql2FvMB6Jx0PvfoGBB8T5UdAfIZi3uJiP4VHI6xGkev7hKHh+xJrJDNZjRS
+```
+
+[新云下载](http://www.newasp.net/soft/81224.html)
+
 ## code::blocks
 
 非常好用的开源C/C++ IDE，与mingw搭配使用。替代vc6.0的免费解决方案。
@@ -180,13 +193,13 @@ MP15-M19-9P23-876A-9999
 
 [官方下载](http://dev.mysql.com/downloads/)
 
-## navicat for sqlite
+## navicat
 
-navicat出品的sqlite图形化管理软件。在体验和易用性方面还是比较不错的。
+navicat出品的图形化管理软件。支持多种数据库。在体验和易用性方面还是比较不错的。
 
-[官方下载](http://www.navicat.com.cn/products/navicat-for-sqlite)
+[官方下载](http://www.navicat.com.cn/download)
 
-[软件+破解补丁下载](http://download.csdn.net/detail/zar19901007/6417605)
+[v11通用补丁](http://vdisk.weibo.com/s/aADaW4YRE_B-c)
 
 ## .net framework
 
