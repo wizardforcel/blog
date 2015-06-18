@@ -23,6 +23,7 @@ widgets:
 - category
 - tagcloud
 - link
+- account
 - ad
 
 # Miscellaneous
