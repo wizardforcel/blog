@@ -16,12 +16,22 @@ date: 2014-11-15 16:10:02
 * Stewart Calculus 7th edition
   * [下载地址一](http://pan.baidu.com/s/1rUohw)
   * [下载地址二](http://down.51cto.com/data/1900350)
-* 同济大学高等数学第六版
-  * [下载地址一](http://club.topsage.com/thread-184346-1-1.html)
+* 同济大学高等数学第六版（上）
+  * [百度云下载](http://pan.baidu.com/s/1eQ71U5W)
+  * [微盘下载](http://vdisk.weibo.com/s/qgCUFgF6OQiUe)
+  * [千易下载](http://1000eb.com/1dv9d)
+* 同济大学高等数学第六版（下）
+  * [百度云下载](http://pan.baidu.com/s/1nt3jSSh)
+  * [微盘下载](http://vdisk.weibo.com/s/qgCUFgF6OQj4G)
+  * [千易下载](http://1000eb.com/1dv9e)
 * 同济大学线性代数第五版
-  * [下载地址一](http://club.topsage.com/forum.php?mod=viewthread&tid=184344)
+  * [百度云下载](http://pan.baidu.com/s/1hqCh8xA)
+  * [微盘下载](http://vdisk.weibo.com/s/qgCUFgF6OQiGR)
+  * [千易下载](http://1000eb.com/1dv9f)
 * 浙江大学概率统计第四版
-  * [下载地址一](http://down.51cto.com/data/674460)
+  * [百度云下载](http://pan.baidu.com/s/1mgN4FJ6)
+  * [微盘下载](http://vdisk.weibo.com/s/qgCUFgF6OQj0d)
+  * [千易下载](http://1000eb.com/1dv9g)
 
 ## 物理 ##
 
