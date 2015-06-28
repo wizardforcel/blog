@@ -32,6 +32,22 @@ date: 2014-11-15 16:10:02
   * [百度云下载](http://pan.baidu.com/s/1mgN4FJ6)
   * [微盘下载](http://vdisk.weibo.com/s/qgCUFgF6OQj0d)
   * [千易下载](http://1000eb.com/1dv9g)
+* 同济高等数学习题全解指南第六版（上）
+  * [百度云下载](http://pan.baidu.com/s/1c0bHVpA)
+  * [微盘下载](http://vdisk.weibo.com/s/qgFabTjKFBM-C)
+  * [千易下载](http://1000eb.com/1dvkn)
+* 同济高等数学习题全解指南第六版（下）
+  * [百度云下载](http://pan.baidu.com/s/1sjHURPr)
+  * [微盘下载](http://vdisk.weibo.com/s/qgFabTjKFBN01)
+  * [千易下载](http://1000eb.com/1dvko)
+* 同济线性代数附册学习辅导与习题全解第五版
+  * [百度云下载](http://pan.baidu.com/s/1i33sb9F)
+  * [微盘下载](http://vdisk.weibo.com/s/qgFabTjKFBM-J)
+  * [千易下载](http://1000eb.com/1dvkp)
+* 浙大概率统计习题全解指南第四版
+  * [百度云下载](http://pan.baidu.com/s/1jGpcSaq)
+  * [微盘下载](http://vdisk.weibo.com/s/qgFabTjKFBM-k)
+  * [千易下载](http://1000eb.com/1dvkq)
 
 ## 物理 ##
 
