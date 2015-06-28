@@ -48,6 +48,24 @@ date: 2014-11-15 16:10:02
   * [百度云下载](http://pan.baidu.com/s/1jGpcSaq)
   * [微盘下载](http://vdisk.weibo.com/s/qgFabTjKFBM-k)
   * [千易下载](http://1000eb.com/1dvkq)
+* 图灵数学·统计学丛书
+  * [微盘下载](http://vdisk.weibo.com/s/u_L_7PmKRON)
+  * [百度云下载](http://pan.baidu.com/s/1pJ5Gvur)
+* 华章数学译丛
+  * [微盘下载](http://vdisk.weibo.com/s/CcGyVyVKaMyiq?category_id=0&parents_ref=CcGyVyVKaMyAh)
+  * [百度云下载](http://pan.baidu.com/s/1dDlbzod)
+* 华章数学译丛41：托马斯大学微积分（中文版）
+  * [百度云下载](http://pan.baidu.com/s/1i38HNcp)
+  * [微盘下载](http://vdisk.weibo.com/s/qgBY55DnE3Vqn)
+  * [千易下载](http://1000eb.com/1dvt6)
+* 华章数学译丛11：线性代数及其应用（中文第3版）
+  * [百度云下载](http://pan.baidu.com/s/1gdGTyi3)
+  * [微盘下载](http://vdisk.weibo.com/s/qgBY55DnE3Vq1)
+  * [千易下载](http://1000eb.com/1dvt5)
+* 图灵数学·统计学丛书40：概率导论（中文第2版）
+  * [百度云下载](http://pan.baidu.com/s/1mglBb52)
+  * [微盘下载](http://vdisk.weibo.com/s/qgBY55DnE3Vqg)
+  * [千易下载](http://1000eb.com/1dvt7)
 
 ## 物理 ##
 
