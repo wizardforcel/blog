@@ -66,6 +66,22 @@ date: 2014-11-15 16:10:02
   * [百度云下载](http://pan.baidu.com/s/1mglBb52)
   * [微盘下载](http://vdisk.weibo.com/s/qgBY55DnE3Vqg)
   * [千易下载](http://1000eb.com/1dvt7)
+* 欧姆社学习漫画：漫画微积分
+  * [百度云下载](http://pan.baidu.com/s/1bnDDN4b)
+  * [微盘下载](http://vdisk.weibo.com/s/qh6_ZL4qwYl0z)
+  * [千易下载](http://1000eb.com/1dwy7)
+* 欧姆社学习漫画：漫画微分方程
+  * [百度云下载](http://pan.baidu.com/s/1e4aDK)
+  * [微盘下载](http://vdisk.weibo.com/s/qh6_ZL4qwYl0c)
+  * [千易下载](http://1000eb.com/1dwy6)
+* 欧姆社学习漫画：漫画线性代数
+  * [百度云下载](http://pan.baidu.com/s/1gdCPLxL)
+  * [微盘下载](http://vdisk.weibo.com/s/qh6_ZL4qwYk-W)
+  * [千易下载](http://1000eb.com/1dwy8)
+* 欧姆社学习漫画：漫画统计学
+  * [百度云下载](http://pan.baidu.com/s/1mgGdwXa)
+  * [微盘下载](http://vdisk.weibo.com/s/qh6_ZL4qwYl06)
+  * [千易下载](http://1000eb.com/1dwy5)
 
 ## 物理 ##
 
