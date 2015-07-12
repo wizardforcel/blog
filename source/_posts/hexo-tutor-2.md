@@ -10,19 +10,19 @@ tags:
 
 linux下打开bash，win下面打开cmd，输入：
 
-```
+</pre>
 $ npm install hexo -g
 $ hexo init blog
 $ cd blog
 $ npm install
 $ hexo server
-```
+</pre>
 
 访问[http://localhost:4000](http://localhost:4000)，会看到生成好的博客。
 
 同时，在blog文件夹中，文件如下：
 
-```
+</pre>
 2014/11/01  19:45    <DIR>          .
 2014/11/01  19:45    <DIR>          ..
 2014/11/01  11:16                68 .gitignore
@@ -34,13 +34,13 @@ $ hexo server
 2014/11/01  17:31    <DIR>          source
 2014/11/01  11:16    <DIR>          themes
 2014/11/01  11:38             1,844 _config.yml
-```
+</pre>
 
 ## 配置 ##
 
 站点的配置文件是_config.yml，如果你不小心改花了，这里提供了一份默认的：
 
-```
+</pre>
 # Hexo Configuration
 ## Docs: http://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -129,7 +129,7 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
-```
+</pre>
 
 [官方的页面](http://hexo.io/docs/configuration.html)上也提供了每一项详细的解释。
 

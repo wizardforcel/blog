@@ -20,7 +20,7 @@ http://drops.wooyun.org/tips/1955
 
 主要是转义and、小于号、大于号和两个引号。
 
-```
+<pre>
 function htmlEnco(s)
 {
     return s.replace(/</g, "&amp;lt;")
@@ -29,4 +29,4 @@ function htmlEnco(s)
             .replace(/"/g, "&amp;quot;")
             .replace(/'/g, "&amp;#39;");
 }
-```
+</pre>

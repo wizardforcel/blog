@@ -14,13 +14,13 @@ hexo默认集成了disqus，但是在天朝明显多说更受欢迎一点。
 
 在_config.yml中添加多说的配置：
 
-```
+</pre>
 duoshuo_shortname: short_name
-```
+</pre>
 
 修改themes\<theme_name>\layout\_partial\article.ejs，把第38行到41行的如下代码：
 
-```
+</pre>
 <% if (!index && post.comments && config.disqus_shortname){ %>
 <section id="comments">
   <div id="disqus_thread">
@@ -28,11 +28,11 @@ duoshuo_shortname: short_name
   </div>
 </section>
 <% } %>
-```
+</pre>
 
 替换成：
 
-```
+</pre>
 <% if (!index && post.comments && config.duoshuo_shortname){ %>
 <section id="comments">
   <!-- 多说评论框 start -->
@@ -53,23 +53,23 @@ duoshuo_shortname: short_name
   <!-- 多说公共JS代码 end -->
 </section>
 <% } %>
-```
+</pre>
 
 之后，找到第27到29行：
 
-```
+</pre>
 <% if (post.comments && config.disqus_shortname){ %>
   <a href="<%- post.permalink %>#disqus_thread" class="article-comment-link">Comments</a>
 <% } %>
-```
+</pre>
 
 替换成：
 
-```
+</pre>
 <% if (post.comments && config.duoshuo_shortname){ %>
   <a href="<%- url_for(post.path) %>#comments" class="article-comment-link">留言</a>
 <% } %>
-```
+</pre>
 
 ## 分享 ##
 
@@ -77,16 +77,16 @@ hexo默认提供的那四个在国内也被墙了。这里替换成百度一键�
 
 找到themes\landscape\layout\_partialarticle.ejs26行：
 
-```
+</pre>
 <a data-url="<%- post.permalink %>" data-id="<%= post._id %>" class="article-share-link">分享</a>
-```
+</pre>
 
 替换成：
 
-```
+</pre>
 <a data-url="<%- post.permalink %>" data-id="<%= post._id %>" class="article-share-link bdsharebuttonbox" data-cmd="more">分享</a>
 <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"1","bdMiniList":false,"bdPic":"","bdStyle":"2","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
-```
+</pre>
 
 之后打开themes\landscape\source\js\script.js，35~86行全部注释掉。
 

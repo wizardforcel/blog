@@ -10,9 +10,9 @@ tags:
 
 命令行键入：
 
-```
+</pre>
 $ hexo new page about
-```
+</pre>
 
 会在source/about中生成index.html。这个就叫做页面，不在文章列表显示，可以通过[http://localhost/about](http://localhost/about)浏览。
 
@@ -26,7 +26,7 @@ $ hexo new page about
 
 进入themes\<theme_name>\layout\_widget目录中，创建about.ejs文件，模仿其他文件中的模版，输入以下内容：
 
-```
+</pre>
 <% if (site.tags.length){ %>
   <div class="widget-wrap">
     <h3 class="widget-title">About</h3>
@@ -36,7 +36,7 @@ $ hexo new page about
     </div>
   </div>
 <% } %>
-```
+</pre>
 
 打开themes\<theme_name>\_config.yml，找到#Sidebar，在最后面添加- about。刷新页面。
 

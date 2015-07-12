@@ -10,10 +10,10 @@ tags:
 
 切换到blog根目录下，输入：
 
-```
+</pre>
 $ npm install hexo-generator-feed
 $ npm install hexo-generator-sitemap
-```
+</pre>
 
 之后重启博客，访问/atom.xml和/sitemap.xml，会发现已经生成了。可以把sitemap提交到搜索引擎的站长平台来增加收录。
 
@@ -23,31 +23,31 @@ $ npm install hexo-generator-sitemap
 
 找到配置文件中# Deployment一节，修改：
 
-```
+</pre>
 type: github
 repository: https://gitcafe.com/your_name/your_name.git 
 branch: gitcafe-pages
-```
+</pre>
 
 之后输入：
 
-```
+</pre>
 hexo deploy --generate
-```
+</pre>
 
 或者
 
-```
+</pre>
 $ hexo generate --deploy
-```
+</pre>
 
 hexo会自动生成并部署。
 
 如果之前已经生成过了，直接输入：
 
-```
+</pre>
 $ hexo deploy
-```
+</pre>
 
 部署即可。
 

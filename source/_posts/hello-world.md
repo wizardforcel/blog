@@ -13,32 +13,32 @@ Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documen
 
 ### Create a new post
 
-``` bash
+</pre> bash
 $ hexo new "My New Post"
-```
+</pre>
 
 More info: [Writing](http://hexo.io/docs/writing.html)
 
 ### Run server
 
-``` bash
+</pre> bash
 $ hexo server
-```
+</pre>
 
 More info: [Server](http://hexo.io/docs/server.html)
 
 ### Generate static files
 
-``` bash
+</pre> bash
 $ hexo generate
-```
+</pre>
 
 More info: [Generating](http://hexo.io/docs/generating.html)
 
 ### Deploy to remote sites
 
-``` bash
+</pre> bash
 $ hexo deploy
-```
+</pre>
 
 More info: [Deployment](http://hexo.io/docs/deployment.html)

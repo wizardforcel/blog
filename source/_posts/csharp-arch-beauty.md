@@ -13,9 +13,9 @@ tags:
 
 <!-- more -->
 
-```
+<pre>
 Reader r = new BufferedStreamReader(new InputStreamReader(new FileInputStream(fileName), encoding);
-```
+</pre>
 
 ![](http://new.51cto.com/files/uploadimg/20090302/094151940.jpg)
 
@@ -23,22 +23,22 @@ Reader r = new BufferedStreamReader(new InputStreamReader(new FileInputStream(fi
 
 在c#中，StreamReader提供了以下四组构造器：
 
-```
+<pre>
 StreamReader (Stream stream)
 StreamReader (String path)
 StreamReader (Stream stream, Encoding encoding)
 StreamReader (String path, Encoding encoding)
-```
+</pre>
 
 其实，传入string的构造器只是包装了一层，在里面new出一个FileInputStream。但是就是这个小小的改变，却给程序员省了不少代码。
 
-```
+<pre>
 StreamReader sr = new StreamReader(fileName, encoding);
-```
+</pre>
 
 于是我每次写java的东西，都要把要用到的reader包装一下：
 
-```
+<pre>
 import java.io.*;
 
 public class StreamReader extends BufferedReader
@@ -98,7 +98,7 @@ public class StreamReader extends BufferedReader
         return sb.toString();
     }
 }
-```
+</pre>
 
 再来看看数值读写。java里面读取整型浮点的类叫做`Scanner`，c#里面根本找不到这种东西，因为它叫`BinaryReader`。同工不同名，这命名方式我也是醉了。
 

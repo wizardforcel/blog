@@ -19,7 +19,7 @@ tags:
 
 3 导入`javax.ejb.*`，给这个类打上`@Stateless`的标签。由于所有客户端访问到的是同一个计数器，所以用无状态Bean。
 
-```
+<pre>
 import javax.ejb.*;
 
 @Stateless
@@ -42,24 +42,24 @@ class CountBean
     count++;
   }
 }
-```
+</pre>
 
 4 新建一个Servlet，命名为`TestServlet`，WevServlet解析为`"/"`。
 
 4.1  导入`javax.ejb.*`，并新增字段：
 
-```
+<pre>
 @EJB
 private CountBean countbean;
-```
+</pre>
 
 此字段不需要显式实例化。
 
 4.2 在`doGet`方法中编写如下代码：
 
-```
+<pre>
 countbean.addCount();
 writer.write(countbean.getCount());
-```
+</pre>
 
 5 运行该项目，并访问`http://localhost:8080/TestServlet/`。

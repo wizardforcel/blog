@@ -10,20 +10,20 @@ tags:
 
 命令行中输入：
 
-```
+</pre>
 $ hexo new "new article"
-```
+</pre>
 
 之后在source/_posts目录下面，多了一个new-article.md的文件。
 
 打开之后我们会看到：
 
-```
+</pre>
 title: new article
 date: 2014-11-01 20:10:33
 tags:
 ---
-```
+</pre>
 
 文件的开头是属性，采用统一的yaml格式，用三条短横线分隔。下面是文章正文。
 
@@ -53,13 +53,13 @@ tags:
 
 例如：
 
-```
+</pre>
 categories:
 - 日记
 tags:
 - Hexo
 - node.js
-```
+</pre>
 
 ## 摘要 ##
 
@@ -89,26 +89,26 @@ tags:
 
 草稿相当于很多博客都有的“私密文章”功能。
 
-```
+</pre>
 $ hexo new draft "new draft"
-```
+</pre>
 
 会在source/_drafts目录下生成一个new-draft.md文件。但是这个文件不被显示在页面上，链接也访问不到。也就是说如果你想把某一篇文章移除显示，又不舍得删除，可以把它移动到_drafts目录之中。
 
 如果你希望强行预览草稿，更改配置文件：
 
-```
+</pre>
 render_drafts: true
-```
+</pre>
 
 或者，如下方式启动server：
 
-```
+</pre>
 $ hexo server --drafts
-```
+</pre>
 
 下面这条命令可以把草稿变成文章，或者页面：
 
-```
+</pre>
 $ hexo publish [layout] <filename>
-```
+</pre>

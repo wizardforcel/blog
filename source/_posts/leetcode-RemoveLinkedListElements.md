@@ -20,7 +20,7 @@ leetcode上面新出了一道题，序号是203，看到后花了几分钟一次
 
 代码（该注释的都注释了）：
 
-```
+<pre>
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -57,4 +57,4 @@ public:
         
     }
 };
-```
+</pre>

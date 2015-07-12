@@ -44,10 +44,10 @@ tags:
 
 请先设置hosts：
 
-```
+</pre>
 203.208.46.146 dl.google.com
 203.208.46.200 dl-ssl.google.com
-```
+</pre>
 
 [官方下载](http://www.android-studio.org/)
 
@@ -61,12 +61,12 @@ tags:
 
 专业的快速原型设计工具。
 
-```
+</pre>
 用户名：aaa
 注册码1：h624pifAqt7It5e8boKkML+Y4RjDX5xknP4k7QktJYQoxsvv7VUS7hBCv/2ef45P 
 注册码2：2GQrt5XHYY7SBK/4b22Gm4Dh8alaR0/0k3gEN5h7FkVPIn8oG3uphlOeytIajxGU 
 注册码3：+f4T7ql2FvMB6Jx0PvfoGBB8T5UdAfIZi3uJiP4VHI6xGkev7hKHh+xJrJDNZjRS
-```
+</pre>
 
 [新云下载](http://www.newasp.net/soft/81224.html)
 
@@ -118,11 +118,11 @@ windows下最好用的markdown编辑器。
 
 序列号：
 
-```
+</pre>
 Email address: 317954016@qq.com
 License key:
 ZkAt8b701hD2xW/DpZV1yz9AWuT5JQGlioNPOfqN2sal614Sato7+OX++W/qzAT2L+To5a30nKTWtP6FofsZJq7bpqcXol/PCM/u+daxsf3mwKJS+I7jCpAwTf3wP6sI9DnZavfbAyY1BDgBR2lEErini54Ws/0nSKhKxisWQ9tRamRpsIubNVgIO/SbQ2hRvkdhx72XEWZWD+AU0kbujF+JXJ/D1qUOe9YnsO2/VWGrxy91RH2k+8PPKTuNrhKWNaTq9vvVSAo3887VYjlbdy4qWAKhPwxuY49hOMFP/O+XlFQalPV6pKg15UakGwhybzmDHo1kzgWFsveqyplieQ==
-```
+</pre>
 
 [官方下载](http://www.markdownpad.com/download.html)
 
@@ -140,11 +140,11 @@ ZkAt8b701hD2xW/DpZV1yz9AWuT5JQGlioNPOfqN2sal614Sato7+OX++W/qzAT2L+To5a30nKTWtP6F
 
 序列号：
 
-```
+</pre>
 MP93-617-CP79-BEEB-82A1
 MP91-555-BP69-BAF8-7A56
 MP9M-959-APE2-E673-82BA
-```
+</pre>
 
 [系统之家下载](http://www.xitongzhijia.net/soft/24290.html)
 
@@ -152,14 +152,14 @@ MP9M-959-APE2-E673-82BA
 
 序列号：
 
-```
+</pre>
 MP10-484-CP49-D555-22M2
 MP10-988-7P45-2A87-M118
 MP10-959-2PD8-291E-D7D4
 MP10-771-9P43-3AB1-A798
 MP10-518-DP5M-A5DF-F99A
 MP10-733-3P1E-FE7A-D3BM
-```
+</pre>
 
 [PC6下载](http://www.pc6.com/softview/SoftView_53990.html)
 
@@ -169,11 +169,11 @@ MP10-733-3P1E-FE7A-D3BM
 
 序列号：
 
-```
+</pre>
 MP74-498-BP4E-D6CF-AEB5
 MP78-812-2P94-D1DM-35F3
 MP74-987-BPC7 -41DE-E3FF
-```
+</pre>
 
 [绿色先锋下载](http://www.greenxf.com/soft/53111.html)
 
@@ -181,9 +181,9 @@ MP74-987-BPC7 -41DE-E3FF
 
 序列号：
 
-```
+</pre>
 MP15-M19-9P23-876A-9999
-```
+</pre>
 
 [PC6下载](http://www.pc6.com/softview/SoftView_58828.html)
 
@@ -313,7 +313,7 @@ windows上最好用的uml建模工具。
 
 序列号：
 
-```
+</pre>
 ----- BEGIN LICENSE -----
 Andrew Weber
 Single User License
@@ -327,7 +327,7 @@ E1D0AE85 A0BBD039 0E9C8D55 E1B89D5D
 5CDB7036 E56DE1C0 EFCC0840 650CD3A6
 B98FC99C 8FAC73EE D2B95564 DF450523
 ------ END LICENSE ------
-```
+</pre>
 
 [官方下载](http://www.sublimetext.com/2)
 
@@ -345,9 +345,9 @@ windows上最好用的IDE，用于开发C/C++、C#、VB以及其它。
 
 序列号
 
-```
+</pre>
 YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
-```
+</pre>
 
 [官方下载](http://download.microsoft.com/download/4/0/E/40EFE5F6-C7A5-48F7-8402-F3497FABF888/X16-42555VS2010ProTrial1.iso)
 
@@ -357,9 +357,9 @@ YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
 
 序列号
 
-```
+</pre>
 4D974-9QX42-9Y43G-YJ7JG-JDYBP
-```
+</pre>
 
 [官方下载](http://download.microsoft.com/download/B/2/8/B2801FEE-9A60-4AFA-8657-0E8AB0A373F0/VS2012_PRO_chs.iso)
 
@@ -373,11 +373,11 @@ YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
 
 序列号：
 
-```
+</pre>
 NF6DV-8AL0J-CZ6G9-WHA5H-8223A
 JA2UP-0329H-2Z8K0-T1C76-A2JLV
 HA01E-DYL1Q-AZ7V8-419Q2-9C050
-```
+</pre>
 
 [官方下载](https://my.vmware.com/web/vmware/details?productId=362&downloadGroup=WKST-1000-WIN-A)
 
