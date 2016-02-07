@@ -9,6 +9,9 @@
         <h2 id="subtitle-wrap">
           <a href="<%- url_for() %>" id="subtitle"><%= theme.subtitle %></a>
         </h2>
+      <% } else { %>
+        <script type="text/javascript" src="http://api.hitokoto.us/rand?encode=js&charset=utf-8"></script>
+        <h2 id="subtitle-wrap"><script>hitokoto();</script></h2>
       <% } %>
     </div>
     <div id="header-inner" class="inner">
