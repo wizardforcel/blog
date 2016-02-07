@@ -2,8 +2,10 @@ title: SQLMAP参数中文解说
 id: 1328
 categories:
   - 安全
-date: 2014-06-12 23:46:05
 tags:
+  - sqlmap
+  - sql注入
+date: 2014-06-12 23:46:05
 ---
 
 Options（选项）：

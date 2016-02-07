@@ -4,6 +4,8 @@ categories:
   - 安全
 date: 2014-06-12 23:47:40
 tags:
+  - sqlmap
+  - sql注入
 ---
 
 整理：mickey

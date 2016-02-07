@@ -2,8 +2,9 @@ title: Acunetix Web Vulnerability Scanner 9.x 破解补丁
 id: 1296
 categories:
   - 安全
+tags: 
+  - awvs
 date: 2014-05-23 16:54:24
-tags:
 ---
 
 ![](http://ww3.sinaimg.cn/mw690/841aea59jw1egob9drssoj20o20gedi9.jpg)

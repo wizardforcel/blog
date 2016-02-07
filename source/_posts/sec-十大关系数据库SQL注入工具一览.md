@@ -2,6 +2,8 @@ title: 十大关系数据库SQL注入工具一览
 id: 1293
 categories:
   - 安全
+tags:
+  - sql注入
 date: 2014-05-23 16:48:36
 tags:
 ---

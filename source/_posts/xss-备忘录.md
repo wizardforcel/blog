@@ -1,6 +1,8 @@
 title: xss 备忘录
 categories:
   - 安全
+tags:
+  - xss
 date: 2015-04-27 17:10:00
 ---
 
