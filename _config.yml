@@ -86,6 +86,6 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repository: https://gitcafe.com/wizardforcel/wizardforcel.git 
   branch: gitcafe-pages
