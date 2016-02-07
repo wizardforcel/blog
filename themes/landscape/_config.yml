@@ -7,8 +7,9 @@ menu:
   留言板: /about
   RSS: /atom.xml
 
+rss: /atom.xml
 # Content
-excerpt_link: Read More
+excerpt_link: 更多内容
 fancybox: true
 
 # Sidebar
@@ -27,7 +28,5 @@ widgets:
 # Miscellaneous
 google_analytics:
 favicon: http://7u2hdm.com1.z0.glb.clouddn.com/favicon.ico
-# twitter:
-# google_plus:
-# fb_admins:
-# fb_app_id:
+google_site_verification: NCXVSqxqB-os803-VFMtIEd1SUNJVOIjctCfNYUwD0w
+baidu_site_verification: Nzwx7HuplM
