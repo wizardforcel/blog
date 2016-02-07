@@ -23,7 +23,6 @@ widgets:
 - tagcloud
 - link
 - account
-- ad
 
 # Miscellaneous
 google_analytics:

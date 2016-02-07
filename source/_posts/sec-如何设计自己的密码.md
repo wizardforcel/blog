@@ -1,6 +1,4 @@
 title: "[转]如何设计自己的密码"
-tags:
-  - 密码
 id: 433
 categories:
   - 安全

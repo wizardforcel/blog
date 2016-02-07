@@ -1,7 +1,7 @@
 title: 论builder模式
 categories:
   - 编程
-date: 2015-4-22 10-11-00
+date: 2015-04-22 10:11:01
 tags:
 ---
 
