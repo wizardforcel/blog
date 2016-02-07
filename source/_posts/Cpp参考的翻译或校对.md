@@ -2,7 +2,7 @@ title: C++参考的翻译或校对
 date: 2016-02-07 22:03:41
 tags:
   - cpp
-categories
+categories:
   - 编程
 ---
 
