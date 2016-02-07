@@ -1,7 +1,6 @@
 title: 【推荐】Zeal 离线API文档浏览器
 id: 1513
 categories:
-  - 应用
   - 编程
 date: 2014-10-06 08:35:04
 tags:

@@ -1,7 +1,6 @@
 title: FlygonTiebaToolkit 的开源决定
 id: 1023
 categories:
-  - 编程
   - 贴吧
 date: 2014-03-06 13:30:56
 tags:

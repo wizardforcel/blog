@@ -2,7 +2,6 @@ title: 关于Google在华遭屏蔽的临时解决方案
 id: 1671
 categories:
   - 应用
-  - 编程
 date: 2014-11-30 13:58:10
 tags:
 ---

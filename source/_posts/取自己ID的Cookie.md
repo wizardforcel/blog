@@ -1,7 +1,6 @@
 title: 取自己ID的Cookie
 id: 425
 categories:
-  - 编程
   - 贴吧
 date: 2013-09-26 19:44:29
 tags:

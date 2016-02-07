@@ -1,7 +1,6 @@
 title: "[VB.net]飞龙·网页及贴吧操作II"
 id: 1190
 categories:
-  - 编程
   - 贴吧
 date: 2014-05-05 16:25:08
 tags:
