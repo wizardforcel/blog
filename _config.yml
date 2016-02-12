@@ -74,13 +74,10 @@ time_format: H:mm:ss
 per_page: 10
 pagination_dir: page
 
-# Duoshuo
-duoshuo_shortname: flhexo
-
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: landscape
+theme: cyanstyle
 exclude_generator:
 
 # Deployment
