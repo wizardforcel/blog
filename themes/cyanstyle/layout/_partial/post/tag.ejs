@@ -1,0 +1,7 @@
+<% if (post.tags && post.tags.length){ %>
+  <span class="article-delim">&#8226;</span>
+  <%- list_tags(post.tags, {
+    show_count: false,
+    class: 'article-tag'
+  }) %>
+<% } %>

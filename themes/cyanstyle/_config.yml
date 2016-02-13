@@ -1,0 +1,37 @@
+# Header
+menu:
+  电子书: http://it-ebooks.flygon.net/
+  代码仓库: https://github.com/wizardforcel
+  简历: http://wizardforcel.github.io/resume/
+  苍海国际: http://www.258ch.com/
+  留言板: /about
+  "fork me on gitcafe": https://gitcafe.com/wizardforcel/blog
+
+# Content
+excerpt_link: 更多内容
+prev: 上一页
+next: 下一页
+reply: 评论
+share: 分享
+fancybox: true
+
+# Sidebar
+widgets:
+- about
+- support
+- music
+- recent_posts
+- archive
+- category
+- tagcloud
+- link
+- account
+
+# Miscellaneous
+google_analytics:
+duoshuo_shortname: flhexo
+rss: /atom.xml
+favicon: http://7u2hdm.com1.z0.glb.clouddn.com/favicon.ico
+google_site_verification: NCXVSqxqB-os803-VFMtIEd1SUNJVOIjctCfNYUwD0w
+baidu_site_verification: Nzwx7HuplM
+music: http://7u2hdm.com1.z0.glb.clouddn.com/bg.mp3
