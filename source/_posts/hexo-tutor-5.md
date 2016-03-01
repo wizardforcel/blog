@@ -1,8 +1,6 @@
 title: Hexo 入门指南（五） - 搬家 & 备份
 date: 2014-11-01 21:17:24
 categories:
-  - 应用
-tags:
   - hexo
 ---
 
@@ -14,15 +12,15 @@ wordpress的话，后台“工具->导出”就可以生成。点点和lofter也
 
 之后，安装hexo-migrator-wordpress这个插件
 
-</pre>
+```
 npm install hexo-migrator-wordpress --save
-</pre>
+```
 
 运行
 
-</pre>
+```
 hexo migrate wordpress wordpress.xml
-</pre>
+```
 
 xml中的数据就导入到source中了。最后的工作是修复链接什么的。
 

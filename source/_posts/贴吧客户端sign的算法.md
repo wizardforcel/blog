@@ -6,7 +6,7 @@ date: 2013-09-24 19:49:08
 tags:
 ---
 
-</pre>
+<pre>
 static void Main(string[] args)
 {
     Dictionary&lt;string, string&gt; map
@@ -43,5 +43,7 @@ static string MD5Encrypt(string text, Encoding enco)
 </pre>
 
 1.提交内容所有的name-value值对 按照name的字典序升序排列（要是不知道就以抓包出来的顺序为准） 之后后面加上"tiebaclient!!!" 并去掉"&amp;"这个字符
+
 2.以UTF-8编码计算md5值 计算md5的时候应该输入一个byte[] 以UTF-8编码getbytes就好
+
 3.在原始的提交内容（不带"tiebaclient"，但是带"&amp;"）后面加上"&amp;sign=" 然后在加上刚才的md5文本

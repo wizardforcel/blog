@@ -1,8 +1,6 @@
 title: Hexo 入门指南（一） - 简介 & 准备
 date: 2014-11-01 18:28:38
 categories:
-  - 应用
-tags:
   - hexo
 ---
 
@@ -40,15 +38,15 @@ linux下面，在bash中键入：
 
 (Ubuntu, Debian)
 
-</pre>
+```
 $ sudo apt-get install git
-</pre>
+```
 
 (Fedora, Red Hat, CentOS)
 
-</pre>
+```
 $ sudo yum install git
-</pre>
+```
 
 windows或mac下，直接到[git-scm官网](http://git-scm.com/)下载安装。
 
@@ -56,10 +54,10 @@ windows或mac下，直接到[git-scm官网](http://git-scm.com/)下载安装。
 
 linux下：
 
-</pre>
+```
 $ sudo apt-get install nodejs
 $ sudo apt-get install npm
-</pre>
+```
 
 yum同理。
 
