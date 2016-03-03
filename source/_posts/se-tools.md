@@ -6,7 +6,7 @@ date: 2014-12-12 11:25:55
 tags:
 ---
 
-<base href='https://github.com/wizardforcel/se-tools' />
+<base href='https://github.com/wizardforcel/se-tools/' />
 
 + 绝大多数软件对个人免费。一部分对学生免费，请准备好你的edu邮箱。
 + 收费软件均提供序列号或破解补丁，仅供个人目的使用。请大家在自己能力范围内尽量支持正版。
