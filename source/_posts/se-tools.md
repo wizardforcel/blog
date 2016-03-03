@@ -7,8 +7,6 @@ date: 2014-12-12 11:25:55
 tags:
 ---
 
-<base href='https://github.com/wizardforcel/se-tools/blob/master/' />
-
 + 绝大多数软件对个人免费。一部分对学生免费，请准备好你的edu邮箱。
 + 收费软件均提供序列号或破解补丁，仅供个人目的使用。请大家在自己能力范围内尽量支持正版。
 
@@ -26,19 +24,19 @@ tags:
 
 [下载地址](http://www.pc6.com/softview/SoftView_59267.html)
 
-[破解补丁](bin/acrobat_x_amtlib.7z)
+[破解补丁](https://github.com/wizardforcel/se-tools/blob/master/bin/acrobat_x_amtlib.7z)
 
 ### acrobat pro xi ###
 
 [下载地址](http://rj.baidu.com/soft/detail/27081.html?ald)
 
-[破解补丁](bin/acrobat_xi_amtlib.7z)
+[破解补丁](https://github.com/wizardforcel/se-tools/blob/master/bin/acrobat_xi_amtlib.7z)
 
 ### acrobat pro dc ###
 
 [下载地址](http://www.sdbeta.com/xiazai/2015/0409/30465.html)
 
-[破解补丁](bin/acrobat_dc_amtlib.zip)
+[破解补丁](https://github.com/wizardforcel/se-tools/blob/master/bin/acrobat_dc_amtlib.zip)
 
 ## android studio
 
@@ -57,7 +55,7 @@ tags:
 
 世界使用排名第一的Web服务器软件，可以运行在几乎所有广泛使用的计算机平台上。
 
-[官方下载](http://www.apachehaus.com/cgi-bin/download.plx)
+[官方下载](http://www.apachehaus.com/cgi-https://github.com/wizardforcel/se-tools/blob/master/bin/download.plx)
 
 ## atom ##
 
@@ -126,7 +124,7 @@ Java 语言的软件开发工具包。包含java编译器、虚拟机、类库�
 
 [下载地址](http://pan.baidu.com/share/link?uk=655076662&shareid=647565115)
 
-[license & key](bin/matlab_r2012b_license_key.7z)
+[license & key](https://github.com/wizardforcel/se-tools/blob/master/bin/matlab_r2012b_license_key.7z)
 
 ## mysql
 
@@ -140,7 +138,7 @@ navicat出品的图形化管理软件。支持多种数据库。在体验和易�
 
 [官方下载](http://www.navicat.com.cn/download)
 
-[v11通用补丁](bin/PatchNavicat_11.7z)
+[v11通用补丁](https://github.com/wizardforcel/se-tools/blob/master/bin/PatchNavicat_11.7z)
 
 ## .net framework
 
@@ -168,7 +166,7 @@ navicat出品的图形化管理软件。支持多种数据库。在体验和易�
 
 **软件均已注册激活，安装目录下的`amtlib.dll`是破解补丁，覆盖到任何相同版本未注册的PS上即可为其注册。**
 
-[cs4~cc破解补丁](bin/photoshop_cs4~cc_amtlib_x86_x64.7z)
+[cs4~cc破解补丁](https://github.com/wizardforcel/se-tools/blob/master/bin/photoshop_cs4~cc_amtlib_x86_x64.7z)
 
 ### cs2 精简版 ###
 
@@ -208,13 +206,13 @@ windows上最好用的uml建模工具。
 
 [下载地址](http://www.cr173.com/soft/23650.html)
 
-[破解补丁](bin/powerdesigner_15_pdflm15.7z)
+[破解补丁](https://github.com/wizardforcel/se-tools/blob/master/bin/powerdesigner_15_pdflm15.7z)
 
 ### pd16 ###
 
 [官方下载](https://s3.amazonaws.com/powerdesigner/PowerDesigner165SP04/16.5.SP04.PL01.4535.FullPDESx86.zip)
 
-[破解补丁](bin/powerdesigner_16_pdflm16.rar)
+[破解补丁](https://github.com/wizardforcel/se-tools/blob/master/bin/powerdesigner_16_pdflm16.rar)
 
 ## prezi
 
