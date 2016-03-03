@@ -1,3 +1,4 @@
+---
 title: 关于Google在华遭屏蔽的临时解决方案
 id: 1671
 categories:

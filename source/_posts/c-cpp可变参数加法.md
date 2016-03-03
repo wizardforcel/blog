@@ -1,3 +1,4 @@
+---
 title: "[c/c++]可变参数加法"
 id: 633
 categories:

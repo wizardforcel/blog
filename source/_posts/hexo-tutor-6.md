@@ -1,3 +1,4 @@
+---
 title: Hexo 入门指南（六） - sitemap、rss 和部署
 date: 2014-11-02 09:53:54
 categories:

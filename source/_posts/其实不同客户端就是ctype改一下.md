@@ -1,3 +1,4 @@
+---
 title: 其实不同客户端就是ctype改一下= =
 id: 423
 categories:

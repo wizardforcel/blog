@@ -1,3 +1,4 @@
+---
 title: Hexo 入门指南（三） - 文章 & 草稿
 date: 2014-11-01 20:43:24
 categories:
@@ -17,6 +18,7 @@ $ hexo new "new article"
 打开之后我们会看到：
 
 ```
+---
 title: new article
 date: 2014-11-01 20:10:33
 tags:

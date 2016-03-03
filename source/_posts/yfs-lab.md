@@ -1,3 +1,4 @@
+---
 title: yfs lab 总结
 id: 1808
 categories:

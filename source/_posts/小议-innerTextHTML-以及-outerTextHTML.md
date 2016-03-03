@@ -1,3 +1,4 @@
+---
 title: 小议innerText/HTML以及outerText/HTML
 id: 54
 categories:

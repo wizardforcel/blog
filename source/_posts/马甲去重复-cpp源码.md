@@ -1,3 +1,4 @@
+---
 title: 马甲去重复 c++源码
 tags:
   - cpp

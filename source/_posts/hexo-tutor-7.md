@@ -1,3 +1,4 @@
+---
 title: Hexo 入门指南（七） - 评论 & 分享
 date: 2014-11-02 11:41:08
 categories:

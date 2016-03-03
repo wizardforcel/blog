@@ -1,3 +1,4 @@
+---
 title: 如何本地调用EJB
 categories:
   - 编程

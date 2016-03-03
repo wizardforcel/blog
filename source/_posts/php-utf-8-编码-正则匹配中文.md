@@ -1,3 +1,4 @@
+---
 title: php utf-8编码 正则匹配中文
 id: 1370
 categories:

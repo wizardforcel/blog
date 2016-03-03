@@ -1,3 +1,4 @@
+---
 title: 吐槽一下Java的ArrayList
 id: 1684
 categories:

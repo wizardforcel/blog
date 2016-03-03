@@ -1,3 +1,4 @@
+---
 title: kindle资源整理
 categories:
   - 资源

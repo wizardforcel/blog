@@ -1,3 +1,4 @@
+---
 title: TwentyTwelve透明主题二次美化版
 id: 729
 categories:

@@ -1,3 +1,4 @@
+---
 title: 大学课程参考资料
 tags:
   - calculus

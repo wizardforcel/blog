@@ -1,3 +1,4 @@
+---
 title: TwentyEleven暗色系主题实现透明
 id: 167
 categories:

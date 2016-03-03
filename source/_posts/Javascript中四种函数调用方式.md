@@ -1,3 +1,4 @@
+---
 title: Javascript中四种函数调用方式
 id: 1506
 categories:

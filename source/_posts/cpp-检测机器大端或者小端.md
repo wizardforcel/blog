@@ -1,3 +1,4 @@
+---
 title: "[cpp]检测机器大端或者小端"
 tags:
   - cpp

@@ -1,3 +1,4 @@
+---
 title: c#中的“架构之美”
 categories:
   - 编程

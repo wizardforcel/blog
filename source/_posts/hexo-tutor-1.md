@@ -1,3 +1,4 @@
+---
 title: Hexo 入门指南（一） - 简介 & 准备
 date: 2014-11-01 18:28:38
 categories:

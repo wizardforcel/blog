@@ -1,3 +1,4 @@
+---
 title: 【公告】正式启动多说，关闭easy2hide。
 id: 1557
 categories:
