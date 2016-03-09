@@ -84,5 +84,5 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://git.coding.net/wizardforcel/blog-site.git 
+  repository: https://github.com/wizardforcel/wizardforcel.github.io.git 
   branch: master
