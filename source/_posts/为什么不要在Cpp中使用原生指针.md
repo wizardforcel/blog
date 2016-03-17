@@ -33,7 +33,7 @@ try
 {
     // ...
 }
-catch(Exception &ex)
+catch(exception &ex)
 {
     delete p;
     throw ex;
