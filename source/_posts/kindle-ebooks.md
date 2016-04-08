@@ -114,6 +114,10 @@ tags:
 
 [百度云下载](http://pan.baidu.com/s/1gdEgezD)
 
+## 7000本当当阅读图书 ##
+
+[百度云下载](http://pan.baidu.com/share/link?uk=1459936824&shareid=3702424259)
+
 ## 阅读器 ##
 
 + [calibre (mobi, epub, pdf, ...)](http://calibre-ebook.com/)
