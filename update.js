@@ -34,6 +34,6 @@ for(var cmd of cmds) {
         console.log(cmd);
         console.log(process.execSync(cmd).toString());
     } catch(ex) {
-        console.log('Error: ' + ex.toString());
+        console.log(ex.toString());
     }
 }
