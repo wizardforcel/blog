@@ -64,11 +64,8 @@ QQ：562826179
 
 ## 译作
 
-1.  [Atom 飞行手册 1.0 中文版](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)
-2.  [Django 中文文档 1.8 （一部分）](http://python.usyiyi.cn/django/index.html)
-3.  [orm2 中文文档](https://www.gitbook.com/book/wizardforcel/orm2-doc-zh-cn)
-4.  [ejs 中文文档](http://it-ebooks.flygon.net/ejs-doc/)
-5.  [C++ 中文参考（一部分）](http://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
+1.  [Atom 飞行手册 1.0](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)
+2.  [笨办法学 C](https://github.com/wizardforcel/lcthw-zh)
 
 ## 本博客用过的曲单
 
