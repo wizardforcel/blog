@@ -65,7 +65,10 @@ QQ：562826179
 ## 译作
 
 1.  [Atom 飞行手册 1.0](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)
-2.  [笨办法学 C](https://github.com/wizardforcel/lcthw-zh)
+2.  [Django 中文文档 1.8（未完）](http://python.usyiyi.cn/django/index.html)
+3.  [笨办法学 C](https://github.com/wizardforcel/lcthw-zh)
+4.  [操作系统思考](https://github.com/wizardforcel/think-os-zh)
+4.  [Java 8 简明教程（部分）](https://github.com/wizardforcel/modern-java-zh)
 
 ## 本博客用过的曲单
 
