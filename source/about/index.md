@@ -67,6 +67,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　3\.  \[笨办法学 C\]\(<https://github.com/wizardforcel/lcthw-zh>\)
 　4\.  \[操作系统思考\]\(<https://github.com/wizardforcel/think-os-zh>\)
 　5\.  \[Java 8 简明教程（部分）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
+　6\.  \[SICP Python\]\(<https://github.com/wizardforcel/sicp-py-zh>\)
 
 ## \#\# 本博客用过的曲单
 
