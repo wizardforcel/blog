@@ -68,6 +68,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　4\.  \[操作系统思考\]\(<https://github.com/wizardforcel/think-os-zh>\)
 　5\.  \[Java 8 简明教程（部分）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
 　6\.  \[SICP Python\]\(<https://github.com/wizardforcel/sicp-py-zh>\)
+　7\.  \[Kali Linux 秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-cookbook-zh>\)
 
 ## \#\# 本博客用过的曲单
 
