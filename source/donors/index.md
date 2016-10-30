@@ -7,6 +7,7 @@ date: 2016-03-01 09:57:13
 
 | dornor | value | project |
 | --- | --- | --- |
+| 胡* | 8.88 | 操作系统思考 |
 | 小明 | 3.21 | 操作系统思考 |
 | denFunction | 2.00 | Kali Linux 秘籍 |
 | 海彦 | 5.00 | SICP Python 中文版 |
