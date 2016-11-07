@@ -54,7 +54,11 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 
 　\+   邮箱：admin(at)flygon.net
 　\+   QQ：562826179
-　\+   新浪微博：\[@龙雀\]\(<http://weibo.com/wizardforcel>\)
+　\+   贴吧：\[@飞龙\]\(<http://tieba.baidu.com/home/main?id=e147b7c9c1fa0000>\)
+　\+   微博：\[@龙雀\]\(<http://weibo.com/wizardforcel>\)
+　\+   知乎：\[@飞龙\]\(<https://www.zhihu.com/people/wizardforcel>\)
+　\+   SegmentFault：\[@飞龙\]\(<https://segmentfault.com/u/flygon>\)
+　\+   Github：\[@wizardforcel\]\(<https://github.com/wizardforcel>\)
 
 ## \#\# 项目
 
