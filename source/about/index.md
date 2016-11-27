@@ -75,6 +75,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　7\.  \[Kali Linux 秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-cookbook-zh>\)
 　8\.  \[Kali Linux Web 渗透测试秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-web-pentest-cookbook-zh>\)
 　9\.  \[Kali Linux 无线渗透测试入门指南\]\(<http://git.oschina.net/wizardforcel/kali-linux-wireless-pentest>\)
+　0\.  \[Kali Linux 网络扫描秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-network-scanning-cookbook-zh>\)
 
 ## \#\# 本博客用过的曲单
 
