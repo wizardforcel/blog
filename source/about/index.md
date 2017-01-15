@@ -74,6 +74,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　6\.  \[SICP Python\]\(<https://github.com/wizardforcel/sicp-py-zh>\)
 　7\.  \[浅入浅出 Android 安全\]\(<https://github.com/wizardforcel/asani-zh>\)
 　8\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
+　9\.  \[Matplotlib 入门教程\]\(<https://github.com/wizardforcel/matplotlib-intro-tut-zh>\)
 
 ## \#\# 本博客用过的曲单
 
