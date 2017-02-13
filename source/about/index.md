@@ -76,6 +76,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　8\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
 　9\.  \[Matplotlib 入门教程\]\(<https://github.com/wizardforcel/matplotlib-intro-tut-zh>\)
 　0\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
+　1\.  \[Scapy 中文文档（部分）\]\(<https://github.com/wizardforcel/scapy-docs-zh>\)
 
 ## \#\# 本博客用过的曲单
 
