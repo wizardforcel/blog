@@ -68,16 +68,17 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 
 　1\.  \[Atom 飞行手册 1.0\]\(<https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details>\)
 　2\.  \[Django 中文文档 1.8（部分）\]\(<http://python.usyiyi.cn/django/index.html>\)
-　3\.  \[笨办法学 C\]\(<https://github.com/wizardforcel/lcthw-zh>\)
-　4\.  \[操作系统思考\]\(<https://github.com/wizardforcel/think-os-zh>\)
-　5\.  \[Java 8 简明教程（部分）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
-　6\.  \[SICP Python\]\(<https://github.com/wizardforcel/sicp-py-zh>\)
-　7\.  \[浅入浅出 Android 安全\]\(<https://github.com/wizardforcel/asani-zh>\)
-　8\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
-　9\.  \[Matplotlib 入门教程\]\(<https://github.com/wizardforcel/matplotlib-intro-tut-zh>\)
-　0\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
-　1\.  \[Scapy 中文文档（部分）\]\(<https://github.com/wizardforcel/scapy-docs-zh>\)
-　2\.  \[MDN 中文文档（部分）\]\(<https://developer.mozilla.org/zh-CN/dashboards/revisions?user=wizardforcel>\)
+　3\.  \[C++ 参考手册（部分）\]\(<http://zh.cppreference.com/w/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Wizardforcel>\)
+　4\.  \[笨办法学 C\]\(<https://github.com/wizardforcel/lcthw-zh>\)
+　5\.  \[操作系统思考\]\(<https://github.com/wizardforcel/think-os-zh>\)
+　6\.  \[Java 8 简明教程（部分）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
+　7\.  \[SICP Python\]\(<https://github.com/wizardforcel/sicp-py-zh>\)
+　8\.  \[浅入浅出 Android 安全\]\(<https://github.com/wizardforcel/asani-zh>\)
+　9\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
+　0\.  \[Matplotlib 入门教程\]\(<https://github.com/wizardforcel/matplotlib-intro-tut-zh>\)
+　1\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
+　2\.  \[Scapy 中文文档（部分）\]\(<https://github.com/wizardforcel/scapy-docs-zh>\)
+　3\.  \[MDN 中文文档（部分）\]\(<https://developer.mozilla.org/zh-CN/dashboards/revisions?user=wizardforcel>\)
 
 ## \#\# 本博客用过的曲单
 
