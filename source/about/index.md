@@ -48,7 +48,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 ## \#\# 内容
 
 本博客中，所有未标注出处的文章均默认为原创文章。
-所有原创文章使用 \[CC BY-NC-SA 3.0 协议\]\(<http://creativecommons.org/licenses/by-nc-sa/3.0/cn/>\)，你可以在任何非商业用途中使用，但是即使只引用了一句话，也要表明作者和出处。商业用途请私聊本人。
+所有原创文章使用 \[CC BY-NC-SA 4.0 协议\]\(<http://creativecommons.org/licenses/by-nc-sa/4.0/cn/>\)，你可以在任何非商业用途中使用，但是即使只引用了一句话，也要表明作者和出处。商业用途请私聊本人。
 
 ## \#\# 联系我
 
@@ -63,6 +63,12 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 ## \#\# 项目
 
 \[见简历\]\(<http://wizardforcel.github.io/resume/>\)。
+
+## \#\# 著作
+
+　1\.  \[Selenium Webdriver 简易教程\]\(<https://www.gitbook.com/book/wizardforcel/selenium-webdriver-simple-tutorial/details>\)
+　2\.  \[Markdown 简单的世界\]\(<https://github.com/wizardforcel/markdown-simple-world>\)
+　3\.  \[米斯特白帽培训讲义\]\(<https://github.com/wizardforcel/mst-sec-lecture-notes>\)
 
 ## \#\# 译作
 
