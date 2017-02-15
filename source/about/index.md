@@ -67,7 +67,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 ## \#\# 译作
 
 　1\.  \[Atom 飞行手册 1.0\]\(<https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details>\)
-　2\.  \[Django 中文文档 1.8（未完）\]\(<http://python.usyiyi.cn/django/index.html>\)
+　2\.  \[Django 中文文档 1.8（部分）\]\(<http://python.usyiyi.cn/django/index.html>\)
 　3\.  \[笨办法学 C\]\(<https://github.com/wizardforcel/lcthw-zh>\)
 　4\.  \[操作系统思考\]\(<https://github.com/wizardforcel/think-os-zh>\)
 　5\.  \[Java 8 简明教程（部分）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
@@ -77,6 +77,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　9\.  \[Matplotlib 入门教程\]\(<https://github.com/wizardforcel/matplotlib-intro-tut-zh>\)
 　0\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
 　1\.  \[Scapy 中文文档（部分）\]\(<https://github.com/wizardforcel/scapy-docs-zh>\)
+　2\.  \[MDN 中文文档（部分）\]\(<https://developer.mozilla.org/zh-CN/dashboards/revisions?user=wizardforcel>\)
 
 ## \#\# 本博客用过的曲单
 
