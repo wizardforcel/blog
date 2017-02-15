@@ -73,12 +73,17 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　5\.  \[操作系统思考\]\(<https://github.com/wizardforcel/think-os-zh>\)
 　6\.  \[Java 8 简明教程（部分）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
 　7\.  \[SICP Python\]\(<https://github.com/wizardforcel/sicp-py-zh>\)
-　8\.  \[浅入浅出 Android 安全\]\(<https://github.com/wizardforcel/asani-zh>\)
-　9\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
-　0\.  \[Matplotlib 入门教程\]\(<https://github.com/wizardforcel/matplotlib-intro-tut-zh>\)
-　1\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
-　2\.  \[Scapy 中文文档（部分）\]\(<https://github.com/wizardforcel/scapy-docs-zh>\)
-　3\.  \[MDN 中文文档（部分）\]\(<https://developer.mozilla.org/zh-CN/dashboards/revisions?user=wizardforcel>\)
+　8\.  \[Kali Linux 秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-cookbook-zh>\)
+　9\.  \[Kali Linux Web 渗透测试秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-web-pentest-cookbook-zh>\)
+　0\.  \[Kali Linux Web 无线渗透测试入门指南\]\(<http://git.oschina.net/wizardforcel/kali-linux-wireless-pentest>\)
+　1\.  \[Kali Linux 网络扫描秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-network-scanning-cookbook-zh>\)
+　2\.  \[浅入浅出 Android 安全\]\(<https://github.com/wizardforcel/asani-zh>\)
+　3\.  \[Android 渗透测试学习手册\]\(<http://git.oschina.net/wizardforcel/lpad-zh>\)
+　4\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
+　5\.  \[Matplotlib 入门教程\]\(<https://github.com/wizardforcel/matplotlib-intro-tut-zh>\)
+　6\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
+　7\.  \[Scapy 中文文档（部分）\]\(<https://github.com/wizardforcel/scapy-docs-zh>\)
+　8\.  \[MDN 中文文档（部分）\]\(<https://developer.mozilla.org/zh-CN/dashboards/revisions?user=wizardforcel>\)
 
 ## \#\# 本博客用过的曲单
 
