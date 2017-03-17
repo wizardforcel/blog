@@ -1,6 +1,8 @@
 ---
 title: 做博客一定要以 D 哥为榜样
 date: 2017-03-17 15:34:56
+categories:
+- 杂记
 ---
 
 <http://blog.csdn.net/dl88250>
