@@ -85,6 +85,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　1\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
 　2\.  \[Matplotlib 入门教程\]\(<https://github.com/wizardforcel/matplotlib-intro-tut-zh>\)
 　3\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
+　4\.  \[Web Hacking 101 中文版\]\(<https://github.com/wizardforcel/web-hacking-101-zh>\)
 
 ## \#\# 参与的翻译项目
 
