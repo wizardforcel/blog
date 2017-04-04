@@ -69,6 +69,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　1\.  \[Selenium Webdriver 简易教程\]\(<https://www.gitbook.com/book/wizardforcel/selenium-webdriver-simple-tutorial/details>\)
 　2\.  \[Markdown 简单的世界\]\(<https://github.com/wizardforcel/markdown-simple-world>\)
 　3\.  \[米斯特白帽培训讲义\]\(<https://github.com/wizardforcel/mst-sec-lecture-notes>\)
+　4\.  \[飞龙的安卓逆向教程\]\(<https://github.com/wizardforcel/fl-android-re-tut>\)
 
 ## \#\# 译作
 
