@@ -87,7 +87,8 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　2\.  \[Matplotlib 入门教程\]\(<https://github.com/wizardforcel/matplotlib-intro-tut-zh>\)
 　3\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
 　4\.  \[Web Hacking 101 中文版\]\(<https://github.com/wizardforcel/web-hacking-101-zh>\)
-　4\.  \[格式化字符串漏洞利用\]\(<https://www.gitbook.com/book/wizardforcel/exp-fmt-str-vul/details>\)
+　5\.  \[格式化字符串漏洞利用\]\(<https://www.gitbook.com/book/wizardforcel/exp-fmt-str-vul/details>\)
+　6\.  \[雪城大学计算机与网络安全讲义\]\(<https://github.com/wizardforcel/syracuse-sec-lecture-notes-zh>\)
 
 ## \#\# 参与的翻译项目
 
