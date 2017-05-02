@@ -7,6 +7,7 @@ date: 2016-03-01 09:57:13
 
 | dornor | value | project |
 | --- | --- | --- |
+| Jedis | 5.00 | Pandas 秘籍 |
 | Thinker | 4.00 |  |
 | sufooo | 10.00 | Kali Linux 无线渗透测试入门指南 |
 | 龙兄 | 3.00 | 操作系统思考 |
