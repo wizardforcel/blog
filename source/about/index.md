@@ -98,6 +98,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　4\.  \[Scapy 中文文档\]\(<https://github.com/wizardforcel/scapy-docs-zh>\)
 　5\.  \[MDN 中文文档\]\(<https://developer.mozilla.org/zh-CN/dashboards/revisions?user=wizardforcel>\)
 　6\.  \[SploitFun Linux x86 Exploit 开发系列教程\]\(<https://github.com/wizardforcel/sploitfun-linux-x86-exp-tut-zh>\)
+　7\.  \[杜克大学 STA 633 Python 计算统计学讲义\]\(<https://github.com/Kivy-CN/Duke-STA-663-CN>\)
 
 ## \#\# 本博客用过的曲单
 
