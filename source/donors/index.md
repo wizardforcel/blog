@@ -7,6 +7,7 @@ date: 2016-03-01 09:57:13
 
 | dornor | value | project |
 | --- | --- | --- |
+| V | 1.70 | |
 | 多明戈多明戈 | 5.00 | |
 | Jedis | 5.00 | Pandas 秘籍 |
 | Thinker | 4.00 |  |
