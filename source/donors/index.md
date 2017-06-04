@@ -7,6 +7,7 @@ date: 2016-03-01 09:57:13
 
 | dornor | value | project |
 | --- | --- | --- |
+| DoubleMay | 6.40 | |
 | Madao\_\_ | 5.00 | 笨办法学 C |
 | zkj | 1.00 | |
 | 糖豆 | 10.00 | |
