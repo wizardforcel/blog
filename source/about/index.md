@@ -91,16 +91,16 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 
 ## \#\# 参与的翻译项目
 
-　1\.  \[Atom 飞行手册 1.0\]\(<https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details>\)
-　2\.  \[Django 中文文档 1.8\]\(<http://python.usyiyi.cn/django/index.html>\)
-　3\.  \[C++ 参考手册\]\(<http://zh.cppreference.com/w/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Wizardforcel>\)
-　4\.  \[Java 8 简明教程\]\(<https://github.com/wizardforcel/modern-java-zh>\)
-　5\.  \[Scapy 中文文档\]\(<https://github.com/wizardforcel/scapy-docs-zh>\)
-　6\.  \[Pandas 官方教程\]\(<https://github.com/wizardforcel/pandas-official-tut-zh>\)
-　7\.  \[MDN 中文文档\]\(<https://developer.mozilla.org/zh-CN/dashboards/revisions?user=wizardforcel>\)
-　8\.  \[SploitFun Linux x86 Exploit 开发系列教程\]\(<https://github.com/wizardforcel/sploitfun-linux-x86-exp-tut-zh>\)
-　9\.  \[杜克大学 STA 633 Python 计算统计学讲义\]\(<https://github.com/Kivy-CN/Duke-STA-663-CN>\)
-　0\.  \[Scikit-learn 秘籍\]\(<http://git.oschina.net/wizardforcel/sklearn-cb>\)
+　1\.  \[Atom 飞行手册 1.0（~90%）\]\(<https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details>\)
+　2\.  \[Django 中文文档 1.8（~20%）\]\(<http://python.usyiyi.cn/django/index.html>\)
+　3\.  \[C++ 参考手册（~1%）\]\(<http://zh.cppreference.com/w/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Wizardforcel>\)
+　4\.  \[Java 8 简明教程（70%）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
+　5\.  \[Scapy 中文文档（25%）\]\(<https://github.com/wizardforcel/scapy-docs-zh>\)
+　6\.  \[Pandas 官方教程（10%）\]\(<https://github.com/wizardforcel/pandas-official-tut-zh>\)
+　7\.  \[MDN 中文文档（~1%）\]\(<https://developer.mozilla.org/zh-CN/dashboards/revisions?user=wizardforcel>\)
+　8\.  \[SploitFun Linux x86 Exploit 开发系列教程（60%）\]\(<https://github.com/wizardforcel/sploitfun-linux-x86-exp-tut-zh>\)
+　9\.  \[杜克大学 STA 633 Python 计算统计学讲义（20%）\]\(<https://github.com/Kivy-CN/Duke-STA-663-CN>\)
+　0\.  \[Scikit-learn 秘籍（50%）\]\(<http://git.oschina.net/wizardforcel/sklearn-cb>\)
 
 ## \#\# 本博客用过的曲单
 
