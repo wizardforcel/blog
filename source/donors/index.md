@@ -7,6 +7,8 @@ date: 2016-03-01 09:57:13
 
 | dornor | value | project |
 | --- | --- | --- |
+| 欧流全 | 5.00 | 笨办法学 Python · 续 |
+| 海彦 | 10.00 | |
 | ??? | 5.00 | Linux (x86) Exploit |
 | xiaojay | 18.00 | SICP Py |
 | DoubleMay | 6.40 | |
