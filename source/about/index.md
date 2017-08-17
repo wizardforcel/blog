@@ -83,11 +83,12 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　8\.  \[浅入浅出 Android 安全\]\(<https://github.com/wizardforcel/asani-zh>\)
 　9\.  \[Android 渗透测试学习手册\]\(<http://git.oschina.net/wizardforcel/lpad-zh>\)
 　0\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
-　1\.  \[Matplotlib 入门教程\]\(<https://github.com/wizardforcel/matplotlib-intro-tut-zh>\)
+　1\.  \[Python 数据科学入门教程（未完）\]\(<https://github.com/wizardforcel/py-ds-intro-tut-zh>\)
 　2\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
 　3\.  \[Web Hacking 101 中文版\]\(<https://github.com/wizardforcel/web-hacking-101-zh>\)
 　4\.  \[格式化字符串漏洞利用\]\(<https://www.gitbook.com/book/wizardforcel/exp-fmt-str-vul/details>\)
 　5\.  \[雪城大学计算机与网络安全讲义（未完）\]\(<https://github.com/wizardforcel/syracuse-sec-lecture-notes-zh>\)
+　6\.  \[笨办法学 Python · 续 中文版\]\(<https://git.oschina.net/wizardforcel/lmpythw-zh>\)
 
 ## \#\# 参与的翻译项目
 
