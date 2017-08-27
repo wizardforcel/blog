@@ -89,6 +89,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　4\.  \[格式化字符串漏洞利用\]\(<https://www.gitbook.com/book/wizardforcel/exp-fmt-str-vul/details>\)
 　5\.  \[雪城大学计算机与网络安全讲义（未完）\]\(<https://github.com/wizardforcel/syracuse-sec-lecture-notes-zh>\)
 　6\.  \[笨办法学 Python · 续 中文版\]\(<https://git.oschina.net/wizardforcel/lmpythw-zh>\)
+　7\.  \[笨办法学 Linux 中文版\]\(<https://github.com/wizardforcel/llthw-zh>\)
 
 ## \#\# 参与的翻译项目
 
