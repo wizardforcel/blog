@@ -90,6 +90,7 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　5\.  \[雪城大学计算机与网络安全讲义（未完）\]\(<https://github.com/wizardforcel/syracuse-sec-lecture-notes-zh>\)
 　6\.  \[笨办法学 Python · 续 中文版\]\(<https://git.oschina.net/wizardforcel/lmpythw-zh>\)
 　7\.  \[笨办法学 Linux 中文版\]\(<https://github.com/wizardforcel/llthw-zh>\)
+　8\.  \[数据结构思维 中文版\]\(<https://github.com/wizardforcel/think-dast-zh>\)
 
 ## \#\# 参与的翻译项目
 
