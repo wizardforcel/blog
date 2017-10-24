@@ -26,6 +26,7 @@ widgets:
 - category
 - tagcloud
 - link
+- gate
 - account
 
 # Miscellaneous
