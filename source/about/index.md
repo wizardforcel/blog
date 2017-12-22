@@ -91,6 +91,8 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　6\.  \[笨办法学 Python · 续 中文版\]\(<https://git.oschina.net/wizardforcel/lmpythw-zh>\)
 　7\.  \[笨办法学 Linux 中文版\]\(<https://github.com/wizardforcel/llthw-zh>\)
 　8\.  \[数据结构思维 中文版\]\(<https://github.com/wizardforcel/think-dast-zh>\)
+　9\.  \[写给人类的机器学习 中文版\]\(<https://github.com/Kivy-CN/ml-for-humans-zh>\)
+　0\.  \[Gainlo 面试指南 中文版\]\(<https://github.com/wizardforcel/gainlo-interview-guide-zh>\)
 
 ## \#\# 参与的翻译项目
 
@@ -104,6 +106,8 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 　8\.  \[SploitFun Linux x86 Exploit 开发系列教程（60%）\]\(<https://github.com/wizardforcel/sploitfun-linux-x86-exp-tut-zh>\)
 　9\.  \[杜克大学 STA 633 Python 计算统计学讲义（20%）\]\(<https://github.com/Kivy-CN/Duke-STA-663-CN>\)
 　0\.  \[Scikit-learn 秘籍（50%）\]\(<http://git.oschina.net/wizardforcel/sklearn-cb>\)
+　0\.  \[NumPy 中文参考\]\(<https://github.com/apachecn/numpy-ref-zh>\)
+　0\.  \[Pandas 中文文档\]\(<https://github.com/apachecn/pandas-doc-zh>\)
 
 ## \#\# 本博客用过的曲单
 
