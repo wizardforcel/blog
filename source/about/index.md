@@ -8,25 +8,6 @@ date: 2013-08-17 22:44:56
 
 \*\* **一切爬虫及翻译业务取消。** \*\*
 
-## \#\# 关于我
-
-东川路男子职业技术学院，软件工程专业毕业生。曾经的贴吧狗，淡出的微博控。~~ ~~混乱中立阵营。~~ ~~
-
-英文名\``wizard`\`。但是在很多网站中为保留字，常用 ID 为\``wizardforcel`\`，是 wizard 和 forceful 两个单词拼起来的缩写。
-昵称是\``flygon`\`，中文译作飞龙，源于我百度的账号。于是这个博客的域名就成了\``flygon.net`\`。
-
-将软件首先视为一门手艺，或者创作，其次才是规范化的量产。
-
-喜欢 Markdown 精简易用的哲学，以及发明人之一 Swartz 所倡导的信息自由。
-
-喜欢 Android 手机，Wintel 平板。十足的 MiBoy，果黑三棒黑。
-
-Eclipse一生黑，Java一生黑，IE一生黑。
-
-会弹钢琴，懂一些乐理，但是很久没碰琴了。
-
-也是奇幻小说控。
-
 ## \#\# 喜欢的句子
 
 > \> 每个开发者心里都有一个改变世界的梦想。
@@ -54,10 +35,11 @@ Eclipse一生黑，Java一生黑，IE一生黑。
 
 　\+   邮箱：admin(at)flygon.net
 　\+   QQ：562826179
-　\+   贴吧：\[@飞龙\]\(<http://tieba.baidu.com/home/main?id=e147b7c9c1fa0000>\)
 　\+   微博：\[@龙雀\]\(<http://weibo.com/wizardforcel>\)
 　\+   知乎：\[@飞龙\]\(<https://www.zhihu.com/people/wizardforcel>\)
-　\+   SegmentFault：\[@飞龙\]\(<https://segmentfault.com/u/flygon>\)
+　\+   简书：\[@龙哥盟飞龙\]\(<https://www.jianshu.com/u/b508a6aa98eb>\)
+　\+   CSDN：\[@龙哥盟飞龙\]\(<http://blog.csdn.net/wizardforcel>\)
+　\+   SegmentFault：\[@飞龙\]\(<https://segmentfault.com/u/wizardforcel>\)
 　\+   Github：\[@wizardforcel\]\(<https://github.com/wizardforcel>\)
 
 ## \#\# 项目
