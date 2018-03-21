@@ -59,7 +59,6 @@ date: 2013-08-17 22:44:56
 　1\.  \[Selenium Webdriver 简易教程\]\(<https://www.gitbook.com/book/wizardforcel/selenium-webdriver-simple-tutorial/details>\)
 　2\.  \[Markdown 简单的世界\]\(<https://github.com/wizardforcel/markdown-simple-world>\)
 　3\.  \[米斯特白帽培训讲义\]\(<https://github.com/wizardforcel/mst-sec-lecture-notes>\)
-　4\.  \[飞龙的安卓逆向教程（未完）\]\(<https://github.com/wizardforcel/fl-android-re-tut>\)
 
 ## \#\# 译作
 
@@ -70,34 +69,24 @@ date: 2013-08-17 22:44:56
 　5\.  \[Kali Linux Web 渗透测试秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-web-pentest-cookbook-zh>\)
 　6\.  \[Kali Linux Web 无线渗透测试入门指南\]\(<http://git.oschina.net/wizardforcel/kali-linux-wireless-pentest>\)
 　7\.  \[Kali Linux 网络扫描秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-network-scanning-cookbook-zh>\)
-　8\.  \[浅入浅出 Android 安全\]\(<https://github.com/wizardforcel/asani-zh>\)
-　9\.  \[Android 渗透测试学习手册\]\(<http://git.oschina.net/wizardforcel/lpad-zh>\)
-　0\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
-　1\.  \[Python 数据科学入门教程（未完）\]\(<https://github.com/wizardforcel/py-ds-intro-tut-zh>\)
-　2\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
-　3\.  \[Web Hacking 101 中文版\]\(<https://github.com/wizardforcel/web-hacking-101-zh>\)
-　4\.  \[格式化字符串漏洞利用\]\(<https://www.gitbook.com/book/wizardforcel/exp-fmt-str-vul/details>\)
-　5\.  \[雪城大学计算机与网络安全讲义（未完）\]\(<https://github.com/wizardforcel/syracuse-sec-lecture-notes-zh>\)
-　6\.  \[笨办法学 Python · 续 中文版\]\(<https://git.oschina.net/wizardforcel/lmpythw-zh>\)
-　7\.  \[笨办法学 Linux 中文版\]\(<https://github.com/wizardforcel/llthw-zh>\)
-　8\.  \[数据结构思维 中文版\]\(<https://github.com/wizardforcel/think-dast-zh>\)
-　9\.  \[写给人类的机器学习 中文版\]\(<https://github.com/Kivy-CN/ml-for-humans-zh>\)
-　0\.  \[Gainlo 面试指南 中文版\]\(<https://github.com/wizardforcel/gainlo-interview-guide-zh>\)
+　8\.  \[Android 渗透测试学习手册\]\(<http://git.oschina.net/wizardforcel/lpad-zh>\)
+　9\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
+　0\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
+　1\.  \[Web Hacking 101 中文版\]\(<https://github.com/wizardforcel/web-hacking-101-zh>\)
+　2\.  \[笨办法学 Python · 续 中文版\]\(<https://git.oschina.net/wizardforcel/lmpythw-zh>\)
+　3\.  \[笨办法学 Linux 中文版\]\(<https://github.com/wizardforcel/llthw-zh>\)
+　4\.  \[数据结构思维 中文版\]\(<https://github.com/wizardforcel/think-dast-zh>\)
+　5\.  \[写给人类的机器学习 中文版\]\(<https://github.com/Kivy-CN/ml-for-humans-zh>\)
+　6\.  \[Gainlo 面试指南 中文版\]\(<https://github.com/wizardforcel/gainlo-interview-guide-zh>\)
+　7\.  \[UCB Data8 计算与推断思维\]\(<https://github.com/Kivy-CN/data8-textbook-zh>\)
 
 ## \#\# 参与的翻译项目
 
 　1\.  \[Atom 飞行手册 1.0（~90%）\]\(<https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details>\)
 　2\.  \[Django 中文文档 1.8（~20%）\]\(<http://python.usyiyi.cn/django/index.html>\)
-　3\.  \[C++ 参考手册（~1%）\]\(<http://zh.cppreference.com/w/Special:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/Wizardforcel>\)
-　4\.  \[Java 8 简明教程（70%）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
-　5\.  \[Scapy 中文文档（25%）\]\(<https://github.com/wizardforcel/scapy-docs-zh>\)
-　6\.  \[Pandas 官方教程（10%）\]\(<https://github.com/wizardforcel/pandas-official-tut-zh>\)
-　7\.  \[MDN 中文文档（~1%）\]\(<https://developer.mozilla.org/zh-CN/dashboards/revisions?user=wizardforcel>\)
-　8\.  \[SploitFun Linux x86 Exploit 开发系列教程（60%）\]\(<https://github.com/wizardforcel/sploitfun-linux-x86-exp-tut-zh>\)
-　9\.  \[杜克大学 STA 633 Python 计算统计学讲义（20%）\]\(<https://github.com/Kivy-CN/Duke-STA-663-CN>\)
-　0\.  \[Scikit-learn 秘籍（50%）\]\(<http://git.oschina.net/wizardforcel/sklearn-cb>\)
-　0\.  \[NumPy 中文参考\]\(<https://github.com/apachecn/numpy-ref-zh>\)
-　0\.  \[Pandas 中文文档\]\(<https://github.com/apachecn/pandas-doc-zh>\)
+　3\.  \[Java 8 简明教程（70%）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
+　4\.  \[SploitFun Linux x86 Exploit 开发系列教程（60%）\]\(<https://github.com/wizardforcel/sploitfun-linux-x86-exp-tut-zh>\)
+　5\.  \[Scikit-learn 秘籍（50%）\]\(<http://git.oschina.net/wizardforcel/sklearn-cb>\)
 
 ## \#\# 本博客用过的曲单
 
