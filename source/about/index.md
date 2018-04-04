@@ -79,6 +79,7 @@ date: 2013-08-17 22:44:56
 　5\.  \[写给人类的机器学习 中文版\]\(<https://github.com/Kivy-CN/ml-for-humans-zh>\)
 　6\.  \[Gainlo 面试指南 中文版\]\(<https://github.com/wizardforcel/gainlo-interview-guide-zh>\)
 　7\.  \[UCB Data8 计算与推断思维\]\(<https://github.com/Kivy-CN/data8-textbook-zh>\)
+　8\.  \[安卓应用安全指南 中文版\]\(<https://github.com/wizardforcel/android-app-sec-guidebook-zh>\)
 
 ## \#\# 参与的翻译项目
 
@@ -87,6 +88,7 @@ date: 2013-08-17 22:44:56
 　3\.  \[Java 8 简明教程（70%）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
 　4\.  \[SploitFun Linux x86 Exploit 开发系列教程（60%）\]\(<https://github.com/wizardforcel/sploitfun-linux-x86-exp-tut-zh>\)
 　5\.  \[Scikit-learn 秘籍（50%）\]\(<http://git.oschina.net/wizardforcel/sklearn-cb>\)
+　6\.  \[PyTorch 中文文档（组织）\]\(<https://github.com/apachecn/pytorch-doc-zh>\)
 
 ## \#\# 本博客用过的曲单
 
