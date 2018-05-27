@@ -83,6 +83,7 @@ date: 2013-08-17 22:44:56
 　7\.  \[UCB Data8 计算与推断思维\]\(<https://github.com/Kivy-CN/data8-textbook-zh>\)
 　8\.  \[安卓应用安全指南 中文版\]\(<https://github.com/wizardforcel/android-app-sec-guidebook-zh>\)
 　9\.  \[复杂性思维 中文第二版\]\(<https://github.com/Kivy-CN/think-comp-2e-zh>\)
+　0\.  \[JavaScript 编程精解 中文第三版\]\(<https://github.com/wizardforcel/eloquent-js-3e-zh>\)
 
 ## \#\# 参与的翻译项目
 
@@ -93,6 +94,7 @@ date: 2013-08-17 22:44:56
 　5\.  \[Scikit-learn 秘籍（50%）\]\(<http://git.oschina.net/wizardforcel/sklearn-cb>\)
 　6\.  \[PyTorch 中文文档（组织）\]\(<https://github.com/apachecn/pytorch-doc-zh>\)
 　7\.  \[Sklearn 和 Tensorflow 机器学习实用指南（组织）\]\(<https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF>\)
+　8\.  \[面向机器学习的特征工程（组织）\]\(<https://github.com/apachecn/feature-engineering-for-ml-zh>\)
 
 ## \#\# 本博客用过的曲单
 
