@@ -68,23 +68,26 @@ date: 2013-08-17 22:44:56
 　1\.  \[笨办法学 C\]\(<https://github.com/wizardforcel/lcthw-zh>\)
 　2\.  \[操作系统思考\]\(<https://github.com/wizardforcel/think-os-zh>\)
 　3\.  \[SICP Python\]\(<https://github.com/wizardforcel/sicp-py-zh>\)
-　4\.  \[Kali Linux 秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-cookbook-zh>\)
-　5\.  \[Kali Linux Web 渗透测试秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-web-pentest-cookbook-zh>\)
-　6\.  \[Kali Linux Web 无线渗透测试入门指南\]\(<http://git.oschina.net/wizardforcel/kali-linux-wireless-pentest>\)
-　7\.  \[Kali Linux 网络扫描秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-network-scanning-cookbook-zh>\)
-　8\.  \[Android 渗透测试学习手册\]\(<http://git.oschina.net/wizardforcel/lpad-zh>\)
-　9\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
-　0\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
-　1\.  \[Web Hacking 101 中文版\]\(<https://github.com/wizardforcel/web-hacking-101-zh>\)
-　2\.  \[笨办法学 Python · 续 中文版\]\(<https://git.oschina.net/wizardforcel/lmpythw-zh>\)
-　3\.  \[笨办法学 Linux 中文版\]\(<https://github.com/wizardforcel/llthw-zh>\)
-　4\.  \[数据结构思维 中文版\]\(<https://github.com/wizardforcel/think-dast-zh>\)
-　5\.  \[写给人类的机器学习 中文版\]\(<https://github.com/Kivy-CN/ml-for-humans-zh>\)
-　6\.  \[Gainlo 面试指南 中文版\]\(<https://github.com/wizardforcel/gainlo-interview-guide-zh>\)
-　7\.  \[UCB Data8 计算与推断思维\]\(<https://github.com/Kivy-CN/data8-textbook-zh>\)
-　8\.  \[安卓应用安全指南 中文版\]\(<https://github.com/wizardforcel/android-app-sec-guidebook-zh>\)
-　9\.  \[复杂性思维 中文第二版\]\(<https://github.com/Kivy-CN/think-comp-2e-zh>\)
-　0\.  \[JavaScript 编程精解 中文第三版\]\(<https://github.com/wizardforcel/eloquent-js-3e-zh>\)
+　4\.  \[TutorialsPoint NumPy 教程\]\(<https://github.com/wizardforcel/ts-numpy-tut-zh>\)
+　5\.  \[Matplotlib 用户指南\]\(<https://github.com/wizardforcel/matplotlib-user-guide-zh>\)
+　6\.  \[Web Hacking 101 中文版\]\(<https://github.com/wizardforcel/web-hacking-101-zh>\)
+　7\.  \[笨办法学 Python · 续 中文版\]\(<https://git.oschina.net/wizardforcel/lmpythw-zh>\)
+　8\.  \[笨办法学 Linux 中文版\]\(<https://github.com/wizardforcel/llthw-zh>\)
+　9\.  \[数据结构思维 中文版\]\(<https://github.com/wizardforcel/think-dast-zh>\)
+　0\.  \[写给人类的机器学习 中文版\]\(<https://github.com/Kivy-CN/ml-for-humans-zh>\)
+　1\.  \[Gainlo 面试指南 中文版\]\(<https://github.com/wizardforcel/gainlo-interview-guide-zh>\)
+　2\.  \[UCB Data8 计算与推断思维\]\(<https://github.com/Kivy-CN/data8-textbook-zh>\)
+　3\.  \[安卓应用安全指南 中文版\]\(<https://github.com/wizardforcel/android-app-sec-guidebook-zh>\)
+　4\.  \[复杂性思维 中文第二版\]\(<https://github.com/Kivy-CN/think-comp-2e-zh>\)
+　5\.  \[JavaScript 编程精解 中文第三版\]\(<https://github.com/wizardforcel/eloquent-js-3e-zh>\)
+
+<!--
+　0\.  \[Kali Linux 秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-cookbook-zh>\)
+　0\.  \[Kali Linux Web 渗透测试秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-web-pentest-cookbook-zh>\)
+　0\.  \[Kali Linux Web 无线渗透测试入门指南\]\(<http://git.oschina.net/wizardforcel/kali-linux-wireless-pentest>\)
+　0\.  \[Kali Linux 网络扫描秘籍\]\(<http://git.oschina.net/wizardforcel/kali-linux-network-scanning-cookbook-zh>\)
+　0\.  \[Android 渗透测试学习手册\]\(<http://git.oschina.net/wizardforcel/lpad-zh>\)
+-->
 
 ## \#\# 参与的翻译项目
 
@@ -92,10 +95,13 @@ date: 2013-08-17 22:44:56
 　2\.  \[Django 中文文档 1.8（~20%）\]\(<http://python.usyiyi.cn/django/index.html>\)
 　3\.  \[Java 8 简明教程（70%）\]\(<https://github.com/wizardforcel/modern-java-zh>\)
 　4\.  \[SploitFun Linux x86 Exploit 开发系列教程（60%）\]\(<https://github.com/wizardforcel/sploitfun-linux-x86-exp-tut-zh>\)
-　5\.  \[Scikit-learn 秘籍（50%）\]\(<http://git.oschina.net/wizardforcel/sklearn-cb>\)
-　6\.  \[PyTorch 中文文档（组织）\]\(<https://github.com/apachecn/pytorch-doc-zh>\)
-　7\.  \[Sklearn 和 Tensorflow 机器学习实用指南（组织）\]\(<https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF>\)
-　8\.  \[面向机器学习的特征工程（组织）\]\(<https://github.com/apachecn/feature-engineering-for-ml-zh>\)
+　5\.  \[PyTorch 中文文档（组织）\]\(<https://github.com/apachecn/pytorch-doc-zh>\)
+
+<!--
+　0\.  \[Scikit-learn 秘籍（50%）\]\(<http://git.oschina.net/wizardforcel/sklearn-cb>\)
+　0\.  \[Sklearn 和 Tensorflow 机器学习实用指南（组织）\]\(<https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF>\)
+　0\.  \[面向机器学习的特征工程（组织）\]\(<https://github.com/apachecn/feature-engineering-for-ml-zh>\)
+-->
 
 ## \#\# 本博客用过的曲单
 
