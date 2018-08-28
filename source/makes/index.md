@@ -35,3 +35,7 @@ MAKES 是它的延伸，它是一个人在现代社会生存所需的最少必�
 以下这些课程并非人人需要，但我觉得一部分人需要，并且非常好，也放在这里。
 
 +   [日语语法指南（Tae Kim）](http://res.wokanxing.info/jpgramma/)
++   1960 年民兵手册
+    +   PDF 格式
+        +   [Gitee 下载](https://gitee.com/it-ebooks/ebooks/attach_files/download?i=163347&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F04%2FBE%2FPaAvDFuFAwyAA6wfADiIACy3Zqw072.zip%3Ftoken%3D16264fd2ac85ae8faab13637a486e279%26ts%3D1535443724%26attname%3D1960%25E5%25B9%25B4%25E6%25B0%2591%25E5%2585%25B5%25E6%2589%258B%25E5%2586%258C.zip)
+        +   [Github 下载](https://github.com/wizardforcel/data-science-notebook/files/2327105/1960.zip)
