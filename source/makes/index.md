@@ -16,7 +16,7 @@ MAKES 是它的延伸，它是一个人在现代社会生存所需的最少必�
 所以，我总结了这份列表。但是注意，这个列表尚未完成，目前还只是 MAKES 的一个子集。
 
 +   [计算机通识及创业课](http://it-ebooks.flygon.net/mooc)
-+   未来学（待补充）
++   [奇点大学未来学](https://www.youtube.com/playlist?list=PLACCF3215D88BB174)
 +   5 分钟商学院精细笔记 000~185
     +   EPUB 格式
         +   [CSDN 下载](https://download.csdn.net/download/wizardforcel/10621801)
