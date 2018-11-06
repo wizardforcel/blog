@@ -28,6 +28,7 @@ widgets:
 - link
 - gate
 - account
+- sub_title
 
 # Miscellaneous
 google_analytics:
