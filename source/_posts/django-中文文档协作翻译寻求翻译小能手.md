@@ -2,7 +2,7 @@
 title: django 中文文档协作翻译寻求翻译小能手
 date: 2015-07-12 19:13:29
 tags:
-categories
+categories:
   - 编程
 ---
 
