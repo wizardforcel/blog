@@ -30,16 +30,16 @@
 <script>
     // links shuffle
     document.addEventListener('DOMContentLoaded', evt => {
-        var linkUl = document.querySelector('#link-list')
-        var links = document.querySelectorAll('#link-list li')
-        links = Array.from(links)
-        links.forEach(x => x.remove())
-        var len = links.length
+        var linkUl = document.querySelector('#link-list');
+        var links = document.querySelectorAll('#link-list li');
+        links = Array.from(links);
+        links.forEach(x => x.remove());
+        var len = links.length;
         for(var i = 0; i < len; i++) {
-            var r = Math.floor(Math.random() * links.length)
-            linkUl.append(links[r])
-            links.splice(r, 1)
+            var r = Math.floor(Math.random() * links.length);
+            linkUl.append(links[r]);
+            links.splice(r, 1);
         }
-    })
+    });
 </script>
 </aside>
