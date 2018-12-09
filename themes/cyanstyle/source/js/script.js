@@ -134,17 +134,5 @@
 
     $container.removeClass('mobile-nav-on');
   });
-  
-    // link
-    var $linkUl = $('#link-list');
-    var $list = $('#link-list li');
-    $linkUl.empty();
-    var count = $list.length;
-    for(var i = 0; i < count; i++)
-    {
-        var ran = Math.floor(Math.random() * $list.length);
-        $linkUl.append($list.eq(ran));
-        $list.splice(ran, 1);
-    }
 
 })(jQuery);

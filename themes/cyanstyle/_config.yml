@@ -29,7 +29,7 @@ widgets:
 - link
 - gate
 - account
-- sub_title
+- script
 
 # Miscellaneous
 google_analytics:
