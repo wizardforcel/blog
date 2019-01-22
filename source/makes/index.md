@@ -17,6 +17,7 @@ MAKES 是它的延伸，它是一个人在现代社会生存所需的最少必�
 
 +   [计算机通识及创业课](http://it-ebooks.flygon.net/mooc)
 +   [奇点大学未来学](https://www.youtube.com/playlist?list=PLACCF3215D88BB174)
++   [费曼物理学讲义（英文）](http://www.feynmanlectures.caltech.edu/)
 +   5 分钟商学院精细笔记 000~185
     +   EPUB 格式
         +   [CSDN 下载](https://download.csdn.net/download/wizardforcel/10621801)
