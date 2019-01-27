@@ -124,13 +124,17 @@ Web 程序，使用 Java 和 ST2+Hibernate 编写。
 1.  [安卓应用安全指南 中文版](https://github.com/wizardforcel/android-app-sec-guidebook-zh)
 1.  [复杂性思维 中文第二版](https://github.com/Kivy-CN/think-comp-2e-zh)
 1.  [JavaScript 编程精解 中文第三版](https://github.com/wizardforcel/eloquent-js-3e-zh)
+1.  [*SciPyCon 2018 Sklearn 教程*](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
+1.  [*TensorFlow 学习指南*](https://github.com/apachecn/learning-tf-zh)
+1.  [*fast.ai 数值线性代数讲义 v2*](https://github.com/apachecn/fastai-num-linalg-v2-zh)
+1.  [*数据科学和人工智能技术笔记*](https://github.com/apachecn/ds-ai-tech-notes)
 
 ### 参与的翻译项目
 
 **2015：**
 
-1.  [*Atom 飞行手册 1.0（~90%）*](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)
-1.  [Django 中文文档 1.8（~20%）](http://python.usyiyi.cn/django/index.html)
+1.  [*Atom 飞行手册 1.0（90%）*](https://www.gitbook.com/book/wizardforcel/atom-flight-manual-zh-cn/details)
+1.  [Django 中文文档 1.8（20%）](http://python.usyiyi.cn/django/index.html)
 
 **2016：**
 
@@ -146,6 +150,8 @@ Web 程序，使用 Java 和 ST2+Hibernate 编写。
 1.  [PyTorch 中文文档（组织）](https://github.com/apachecn/pytorch-doc-zh)
 1.  [Sklearn 和 Tensorflow 机器学习实用指南（组织）](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 1.  [面向机器学习的特征工程（组织）](https://github.com/apachecn/feature-engineering-for-ml-zh)
+1.  [UCB Prob140 课本：面向数据科学的概率论（组织）](https://github.com/apachecn/prob140-textbook-zh)
+1.  [Airflow 中文文档（组织）](https://github.com/apachecn/airflow-doc-zh)
 
 **2019：**
 
