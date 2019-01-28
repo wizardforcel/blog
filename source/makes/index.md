@@ -24,11 +24,11 @@ MAKES 是它的延伸，它是一个人在现代社会生存所需的最少必�
 +   [可能是让你受益匪浅的英语进阶指南](https://legacy.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details)
 +   [默沙东诊疗手册（大众版）](https://www.msdmanuals.cn/%E9%A6%96%E9%A1%B5)
 +   [儿童性教育 - 程序媛计划](https://www.cxy61.com/girl/child_sexual_education/index.html)
-+   [PUA 经典书籍](https://gitee.com/it-ebooks/ebooks/attach_files/download?i=163547&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F04%2FC0%2FPaAvDFuGJUmAUIhUA4dFHc0poGs6594.7z%3Ftoken%3D455d4fee47af5b8d561cafec39a0b6dd%26ts%3D1535518148%26attname%3DPUA%2520%25E7%25BB%258F%25E5%2585%25B8%25E4%25B9%25A6%25E7%25B1%258D.7z)（[内容列表](https://gitee.com/it-ebooks/ebooks/issues/IMGTK)）
 
 
 以下这些课程并非人人需要，但我觉得一部分人需要，并且非常好，也放在这里。
 
++   [PUA 经典书籍](https://github.com/it-ebooks/pua-books)
 +   [日语语法指南（Tae Kim）](http://res.wokanxing.info/jpgramma/)
 +   [好和弦乐理课](https://space.bilibili.com/320772967/#/channel/detail?cid=48421)
 +   1960 年民兵手册
