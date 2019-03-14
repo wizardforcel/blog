@@ -173,7 +173,7 @@ Web 程序，使用 Java 和 ST2+Hibernate 编写。
     +   论坛：[community.apachecn.org](https://community.apachecn.org)
     +   [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073)、[简书](https://www.jianshu.com/c/4ee721d0c474)、[OSC](https://my.oschina.net/repine/)、[博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
 
-    机器学习社区，拥有七个群共五千余人，旗下站点 UIP 超过两千，Github 组织的仓库拥有超过两万个星星。组织翻译过《PyTorch 1.0 中文文档》，《Sklearn 中文文档》，《Sklearn 与 TensorFlow 机器学习实用指南》等，广受好评。
+    机器学习社区，拥有七个群共五千余人，旗下站点 UIP 超过四千，Github 组织的仓库拥有超过两万个星星。组织翻译过《PyTorch 1.0 中文文档》，《Sklearn 中文文档》，《Sklearn 与 TensorFlow 机器学习实用指南》等，广受好评。
 
 ## 论文/专利
 
@@ -183,13 +183,12 @@ Web 程序，使用 Java 和 ST2+Hibernate 编写。
     Zhang Z C, Jin Y, Li Q M, et al. A new public safety forensics method based on BINE and the toxicology thoughts[C]//BASIC & CLINICAL PHARMACOLOGY & TOXICOLOGY. 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY, 2018, 123: 86-86.
     ```
     
-2.  一种基于MLP的入侵检测方法（专利）
+2.  [一种基于MLP的入侵检测方法（专利）](http://t.cn/EMnLgay)
 
-3.  一种基于LSTM的网络流量预测方法（专利）
+3.  [一种基于LSTM的网络流量预测方法（专利）](http://t.cn/EMnL06W)
 
 ## 奖项
 
 1.  第六届中国大学生服务外包创新大赛，团体二等奖
 
     请见“微校·校园导航”。
-
