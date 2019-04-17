@@ -15,25 +15,31 @@ SmallPDF 是一款非常好用的 PDF 工具箱，具有压缩、格式转换、
 
 <!-- more -->
 
+## 解决联网验证
+
 SmallPDF 安装之后需要联网验证，否则一直卡在这个界面。
 
 ![3](https://ws1.sinaimg.cn/large/841aea59ly1g24qqhygp7j20mo0gmjrx.jpg)
 
-SmallPDF 在配置文件`C:\Users\{user}\AppData\Roaming\Smallpdf\preferences.json`中储存试用次数，其中`{user}`是你的计算机用户名。
+SmallPDF 在配置文件`C:\Users\{user}\AppData\Roaming\Smallpdf\preferences.json`中储存配置，其中`{user}`是你的计算机用户名。
 
-打开之后，找到这一行，我这里大概是 13 行：
+如果你碰到了这种情况，打开配置文件，找到这一行，我这里大概是 13 行：
 
 ```json
   "system.local_token": null,
 ```
 
-把值改成`"1"`。然后，找到这一行，我这里大概是 44 行：
+把值改成`"1"`，然后给这个文件设为只读。
+
+## 解决试用期过期
+
+打开配置文件，找到这一行，我这里大概是 44 行：
 
 ```json
   "system.trial_duration_limit": 5,
 ```
 
-把它改成 999999999999。然后给这个文件设为只读。
+把它改成 999999999999，然后给这个文件设为只读。
 
 再打开应用程序，就发现可以用了：
 
