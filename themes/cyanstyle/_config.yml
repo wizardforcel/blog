@@ -2,7 +2,7 @@
 menu:
   电子书: http://it-ebooks.flygon.net/
   MAKES: /makes
-  简历: http://flygon.net/resume/zh/
+  作品集: /works
   捐赠名单: /donors
   关于我: /about
   RSS: /atom.xml
@@ -21,6 +21,7 @@ widgets:
 - about
 - support
 - music
+- ad
 - recent_posts
 - archive
 - category
@@ -28,6 +29,7 @@ widgets:
 - link
 - gate
 - account
+- script
 
 # Miscellaneous
 google_analytics:
@@ -37,4 +39,4 @@ favicon: http://7u2hdm.com1.z0.glb.clouddn.com/favicon.ico
 google_site_verification: NCXVSqxqB-os803-VFMtIEd1SUNJVOIjctCfNYUwD0w
 baidu_site_verification: Nzwx7HuplM
 bing_site_verification: 9E9EA92F7E5327E1FE8A5196D5253664
-music: http://7u2hdm.com1.z0.glb.clouddn.com/bg.mp3
+music: https://img.hacpai.com/file/2018/11/karera_wo_tame_no_koushinnkyoku-95a27a16.mp3
