@@ -5,8 +5,6 @@ categories:
 date: 2019-4-16 20:21:00
 ---
 
-<meta name="referrer" content="never" />
-
 > 特别感谢：[攻防之间](https://www.52pojie.cn/thread-899911-1-1.html)
 
 SmallPDF 是一款非常好用的 PDF 工具箱，具有压缩、格式转换、合并分割、解锁、保护等实用功能。它的在线版是完全免费的，但是文件传输很慢，桌面版完全在本地执行操作，免费试用 5 次。
