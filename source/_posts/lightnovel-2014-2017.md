@@ -8,6 +8,7 @@ tags:
 
 +   [下载地址一](https://gitee.com/it-ebooks/lightnovel-2014to2017/repository/archive/master.zip)
 +   [下载地址二](https://github.com/it-ebooks/lightnovel-2014to2017/archive/master.zip)
++   [下载地址三](https://sourceforge.net/p/lightnovel-2014to2017/code/ci/master/tarball)
 
 <!--more-->
 
