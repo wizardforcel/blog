@@ -24,3 +24,6 @@ date: 2018-08-28 11:39:58
 +   知识星球精华整理 2019.10
     +   [Gitee 下载](https://gitee.com/ixinzhi/zsxq)
     +   [Github 下载](https://github.com/ixinzhi/zsxq)
++   生财日历 2020
+    +   [Github 下载](https://github.com/wizardforcel/blog/files/3973187/2020.pdf)
+    +   BiliDrive：`bdrive://40a525c7f40916b1bffcee5d53f4efdc6f127809`
