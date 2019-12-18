@@ -5,6 +5,8 @@ date: 2018-08-28 11:39:58
 
 布客新知是一个整理和开放知识的计划。
 
+非常感谢 [BiliDrive](https://github.com/Hsury/BiliDrive) 项目所提供的支持。
+
 +   [奇点大学未来学](https://www.youtube.com/playlist?list=PLACCF3215D88BB174)
 +   [费曼物理学讲义（英文）](http://www.feynmanlectures.caltech.edu/)
 +   [5 分钟商学院精细笔记](https://github.com/ixinzhi/5min-business-notes)
