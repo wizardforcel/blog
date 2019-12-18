@@ -8,22 +8,22 @@ date: 2018-08-28 11:39:58
 非常感谢 [BiliDrive](https://github.com/Hsury/BiliDrive) 项目所提供的支持。
 
 +   轻小说归档 2018
-    +   [目录](../lightnovel-2018/)
+    +   [目录](http://flygon.net/lightnovel-2018/)
     +   [坚果云下载](https://www.jianguoyun.com/p/DfmxU-0Qhr7PBxierdIB)
     +   [Mega 下载](https://mega.nz/#!zc8z0QIK!56ikdV1Su5TkWSUnPwn3CFC8RzTN7D98tCsn0uuIeXE)
-    +   [BiliDrive](../lightnovel-2018-bilidrive/)
+    +   [BiliDrive](http://flygon.net/lightnovel-2018-bilidrive/)
 +   轻小说归档 2014~2017
-    +   [目录](../lightnovel-2014-2017/)
+    +   [目录](http://flygon.net/lightnovel-2014-2017/)
     +   [Gitee 下载](https://gitee.com/it-ebooks/lightnovel-2014to2017/repository/archive/master.zip)
     +   [Github 下载](https://github.com/it-ebooks/lightnovel-2014to2017/archive/master.zip)
     +   [SourceForge 下载](https://sourceforge.net/p/lightnovel-2014to2017/code/ci/master/tarball)
-    +   [BiliDrive](../lightnovel-2014-2017-bilidrive/)
+    +   [BiliDrive](http://flygon.net/lightnovel-2014-2017-bilidrive/)
 +   轻小说归档 2009~2013
-    +   [目录](../lightnovel-2009-2013/)
+    +   [目录](http://flygon.net/lightnovel-2009-2013/)
     +   [Gitee 下载](https://gitee.com/it-ebooks/lightnovel-2009to2013/repository/archive/master.zip)
     +   [Github 下载](https://github.com/it-ebooks/lightnovel-2009to2013/archive/master.zip)
     +   [SourceForge 下载](https://sourceforge.net/p/lightnovel-2009to2013/code/ci/master/tarball)
-    +   [BiliDrive](../lightnovel-2009-2013-bilidrive/)
+    +   [BiliDrive](http://flygon.net/lightnovel-2009-2013-bilidrive/)
 +   [奇点大学未来学](https://www.youtube.com/playlist?list=PLACCF3215D88BB174)
 +   [费曼物理学讲义（英文）](http://www.feynmanlectures.caltech.edu/)
 +   [5 分钟商学院精细笔记](https://github.com/ixinzhi/business-5min-notes)
@@ -34,7 +34,7 @@ date: 2018-08-28 11:39:58
 +   [儿童性教育 - 程序媛计划](https://www.cxy61.com/girl/child_sexual_education/index.html)
 +   PUA 经典书籍
     +   [Github 下载](https://github.com/it-ebooks/pua-books)
-    +   [BiliDrive](../pua-books/)
+    +   [BiliDrive](http://flygon.net/pua-books/)
 +   [日语语法指南（Tae Kim）](http://res.wokanxing.info/jpgramma/)
 +   [好和弦乐理课](https://space.bilibili.com/320772967/#/channel/detail?cid=48421)
 +   1960 年民兵手册（PDF 格式）
