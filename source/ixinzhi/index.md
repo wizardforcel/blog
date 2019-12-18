@@ -7,9 +7,26 @@ date: 2018-08-28 11:39:58
 
 非常感谢 [BiliDrive](https://github.com/Hsury/BiliDrive) 项目所提供的支持。
 
++   轻小说归档 2018
+    +   [目录](../lightnovel-2018/)
+    +   [坚果云下载](https://www.jianguoyun.com/p/DfmxU-0Qhr7PBxierdIB)
+    +   [Mega 下载](https://mega.nz/#!zc8z0QIK!56ikdV1Su5TkWSUnPwn3CFC8RzTN7D98tCsn0uuIeXE)
+    +   [BiliDrive](../lightnovel-2018-bilidrive/)
++   轻小说归档 2014~2017
+    +   [目录](../lightnovel-2014-2017/)
+    +   [Gitee 下载](https://gitee.com/it-ebooks/lightnovel-2014to2017/repository/archive/master.zip)
+    +   [Github 下载](https://github.com/it-ebooks/lightnovel-2014to2017/archive/master.zip)
+    +   [SourceForge 下载](https://sourceforge.net/p/lightnovel-2014to2017/code/ci/master/tarball)
+    +   [BiliDrive](../lightnovel-2014-2017-bilidrive/)
++   轻小说归档 2009~2013
+    +   [目录](../lightnovel-2009-2013/)
+    +   [Gitee 下载](https://gitee.com/it-ebooks/lightnovel-2009to2013/repository/archive/master.zip)
+    +   [Github 下载](https://github.com/it-ebooks/lightnovel-2009to2013/archive/master.zip)
+    +   [SourceForge 下载](https://sourceforge.net/p/lightnovel-2009to2013/code/ci/master/tarball)
+    +   [BiliDrive](../lightnovel-2009-2013-bilidrive/)
 +   [奇点大学未来学](https://www.youtube.com/playlist?list=PLACCF3215D88BB174)
 +   [费曼物理学讲义（英文）](http://www.feynmanlectures.caltech.edu/)
-+   [5 分钟商学院精细笔记](https://github.com/ixinzhi/5min-business-notes)
++   [5 分钟商学院精细笔记](https://github.com/ixinzhi/business-5min-notes)
 +   
 [通往财富自由之路精细笔记](https://github.com/ixinzhi/the-way-to-wealth-freedom-notes)
 +   [可能是让你受益匪浅的英语进阶指南](https://legacy.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details)
@@ -26,7 +43,6 @@ date: 2018-08-28 11:39:58
 +   [军地两用人才之友（PDF 格式）](https://gitee.com/it-ebooks/ebooks/attach_files/download?i=163363&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F04%2FBE%2FPaAvDFuFEIKAadlyAfjbfuAVMTw367.zip%3Ftoken%3D6a4ed507b17ef531c452d27297c0dd2f%26ts%3D1535447170%26attname%3D%25E5%2586%259B%25E5%259C%25B0%25E4%25B8%25A4%25E7%2594%25A8%25E4%25BA%25BA%25E6%2589%258D%25E4%25B9%258B%25E5%258F%258B.zip)
 +   [军地两用人才之友续编本（PDF 格式）](https://gitee.com/it-ebooks/ebooks/attach_files/download?i=163357&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F04%2FBE%2FPaAvDFuFCc2AXe7LAYd6gZEXrY8072.zip%3Ftoken%3D93fafd9fca995d95d90123c486f97e6b%26ts%3D1535445453%26attname%3D%25E5%2586%259B%25E5%259C%25B0%25E4%25B8%25A4%25E7%2594%25A8%25E4%25BA%25BA%25E6%2589%258D%25E4%25B9%258B%25E5%258F%258B%25E7%25BB%25AD%25E7%25BC%2596%25E6%259C%25AC.zip)
 +   知识星球精华整理 2019.10
-    +   [Gitee 下载](https://gitee.com/ixinzhi/zsxq)
     +   [Github 下载](https://github.com/ixinzhi/zsxq)
 +   生财日历 2020
     +   [Github 下载](https://github.com/wizardforcel/blog/files/3973187/2020.pdf)
