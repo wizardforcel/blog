@@ -5,6 +5,18 @@ date: 2018-08-28 11:39:58
 
 布客新知是一个整理和开放知识的计划。
 
+布客新知打算做知识付费领域的[破晓](https://tieba.baidu.com/f?kw=%E7%A0%B4%E6%99%93%E6%9B%B4%E6%96%B0%E7%BB%84)或[轻国](https://www.lightnovel.cn/forum.php)。
+
+我们打算使用三个渠道来备份和分发知识：
+
+1.  代码仓库，例如 Github 和 Gitee
+1.  CDN，例如各大平台的图床
+1.  区块链，例如 IPFS 和 ZeroNet
+
+并使用来自 ApacheCN 的技术和经验做推广。
+
+你们就尽管删吧，副本是删不完的，知识共享的脚步是挡不住的！
+
 非常感谢 [BiliDrive](https://github.com/Hsury/BiliDrive) 项目所提供的支持。
 
 +   轻小说归档 2018
