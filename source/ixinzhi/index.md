@@ -20,21 +20,13 @@ date: 2018-08-28 11:39:58
 非常感谢 [BiliDrive](https://github.com/Hsury/BiliDrive) 项目所提供的支持。
 
 +   轻小说归档 2018
-    +   [目录](http://flygon.net/lightnovel-2018/)
-    +   [坚果云下载](https://www.jianguoyun.com/p/DfmxU-0Qhr7PBxierdIB)
-    +   [Mega 下载](https://mega.nz/#!zc8z0QIK!56ikdV1Su5TkWSUnPwn3CFC8RzTN7D98tCsn0uuIeXE)
+    +   [仓库](http://flygon.net/lightnovel-2018/)
     +   [BiliDrive](http://flygon.net/lightnovel-2018-bilidrive/)
 +   轻小说归档 2014~2017
-    +   [目录](http://flygon.net/lightnovel-2014-2017/)
-    +   [Gitee 下载](https://gitee.com/it-ebooks/lightnovel-2014to2017/repository/archive/master.zip)
-    +   [Github 下载](https://github.com/it-ebooks/lightnovel-2014to2017/archive/master.zip)
-    +   [SourceForge 下载](https://sourceforge.net/p/lightnovel-2014to2017/code/ci/master/tarball)
+    +   [仓库](http://flygon.net/lightnovel-2014-2017/)
     +   [BiliDrive](http://flygon.net/lightnovel-2014-2017-bilidrive/)
 +   轻小说归档 2009~2013
-    +   [目录](http://flygon.net/lightnovel-2009-2013/)
-    +   [Gitee 下载](https://gitee.com/it-ebooks/lightnovel-2009to2013/repository/archive/master.zip)
-    +   [Github 下载](https://github.com/it-ebooks/lightnovel-2009to2013/archive/master.zip)
-    +   [SourceForge 下载](https://sourceforge.net/p/lightnovel-2009to2013/code/ci/master/tarball)
+    +   [仓库](http://flygon.net/lightnovel-2009-2013/)
     +   [BiliDrive](http://flygon.net/lightnovel-2009-2013-bilidrive/)
 +   [奇点大学未来学](https://www.youtube.com/playlist?list=PLACCF3215D88BB174)
 +   [费曼物理学讲义（英文）](http://www.feynmanlectures.caltech.edu/)

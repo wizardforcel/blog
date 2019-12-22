@@ -6,8 +6,8 @@ tags:
 
 ## 下载
 
-+   [下载地址一](https://www.jianguoyun.com/p/DfmxU-0Qhr7PBxierdIB)
-+   [下载地址二](https://mega.nz/#!zc8z0QIK!56ikdV1Su5TkWSUnPwn3CFC8RzTN7D98tCsn0uuIeXE)
++   [坚果云下载](https://www.jianguoyun.com/p/DfmxU-0Qhr7PBxierdIB)
++   [MEGA 下载](https://mega.nz/#!zc8z0QIK!56ikdV1Su5TkWSUnPwn3CFC8RzTN7D98tCsn0uuIeXE)
 
 <!--more-->
 
