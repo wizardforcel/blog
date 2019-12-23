@@ -19,6 +19,12 @@ date: 2018-08-28 11:39:58
 
 非常感谢 [BiliDrive](https://github.com/Hsury/BiliDrive) 项目所提供的支持。
 
++   Kiwix：离线的维基百科
+    +   [阅读器](https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip)
+    +   [英文数据包](http://download.kiwix.org/zim/wikipedia_zh_all.zim)
+    +   [英文数据包 BitTorrent](http://download.kiwix.org/zim/wikipedia_zh_all.zim.torrent)
+    +   [英文数据包的其他版本（包括不含图片的极小镜像）](https://wiki.kiwix.org/wiki/Content/zh-cn)
+    +   [其他语言的数据包](https://wiki.kiwix.org/wiki/Content_in_all_languages/zh-cn)
 +   轻小说归档 2018
     +   [仓库](http://flygon.net/lightnovel-2018/)
     +   [BiliDrive](http://flygon.net/lightnovel-2018-bilidrive/)
