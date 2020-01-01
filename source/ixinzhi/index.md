@@ -3,6 +3,8 @@ title: 布客新知
 date: 2018-08-28 11:39:58
 ---
 
+<!--ixinzhi-->
+
 布客新知是一个整理和开放知识的计划。
 
 布客新知打算做知识付费领域的[破晓](https://tieba.baidu.com/f?kw=%E7%A0%B4%E6%99%93%E6%9B%B4%E6%96%B0%E7%BB%84)或[轻国](https://www.lightnovel.cn/forum.php)。
@@ -57,3 +59,5 @@ date: 2018-08-28 11:39:58
 +   生财日历 2020
     +   [Github 下载](https://github.com/wizardforcel/blog/files/3973187/2020.pdf)
     +   BiliDrive：`bdrive://40a525c7f40916b1bffcee5d53f4efdc6f127809`
+
+<!--endixinzhi-->
