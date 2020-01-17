@@ -19,7 +19,12 @@ date: 2018-08-28 11:39:58
 
 你们就尽管删吧，副本是删不完的，知识共享的脚步是挡不住的！
 
-非常感谢 [BiliDrive](https://github.com/Hsury/BiliDrive) 项目所提供的支持。
+部分资源使用 [BiliDrive](https://github.com/Hsury/BiliDrive) 维护，非常感谢该项目所提供的支持。执行以下命令来下载它们：
+
+```
+pip install bilidrive
+bilidrive download <link>
+```
 
 +   Kiwix：离线的维基百科
     +   [阅读器](https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip)
@@ -57,5 +62,6 @@ date: 2018-08-28 11:39:58
 +   生财日历 2020
     +   [Github 下载](https://github.com/wizardforcel/blog/files/3973187/2020.pdf)
     +   BiliDrive：`bdrive://40a525c7f40916b1bffcee5d53f4efdc6f127809`
++   [唯库课程整理](http://flygon.net/%E5%94%AF%E5%BA%93/)
 
 <!--endixinzhi-->
