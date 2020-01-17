@@ -63,5 +63,6 @@ bilidrive download <link>
     +   [Github 下载](https://github.com/wizardforcel/blog/files/3973187/2020.pdf)
     +   BiliDrive：`bdrive://40a525c7f40916b1bffcee5d53f4efdc6f127809`
 +   [唯库课程整理](http://flygon.net/%E5%94%AF%E5%BA%93/)
++   [十点课堂课程整理](http://flygon.net/%E5%8D%81%E7%82%B9%E8%AF%BE%E5%A0%82/)
 
 <!--endixinzhi-->
