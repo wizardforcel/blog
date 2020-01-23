@@ -58,7 +58,8 @@ bdex download <link>
 +   [军地两用人才之友（PDF 格式）](https://gitee.com/it-ebooks/ebooks/attach_files/download?i=163363&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F04%2FBE%2FPaAvDFuFEIKAadlyAfjbfuAVMTw367.zip%3Ftoken%3D6a4ed507b17ef531c452d27297c0dd2f%26ts%3D1535447170%26attname%3D%25E5%2586%259B%25E5%259C%25B0%25E4%25B8%25A4%25E7%2594%25A8%25E4%25BA%25BA%25E6%2589%258D%25E4%25B9%258B%25E5%258F%258B.zip)
 +   [军地两用人才之友续编本（PDF 格式）](https://gitee.com/it-ebooks/ebooks/attach_files/download?i=163357&u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F04%2FBE%2FPaAvDFuFCc2AXe7LAYd6gZEXrY8072.zip%3Ftoken%3D93fafd9fca995d95d90123c486f97e6b%26ts%3D1535445453%26attname%3D%25E5%2586%259B%25E5%259C%25B0%25E4%25B8%25A4%25E7%2594%25A8%25E4%25BA%25BA%25E6%2589%258D%25E4%25B9%258B%25E5%258F%258B%25E7%25BB%25AD%25E7%25BC%2596%25E6%259C%25AC.zip)
 +   知识星球精华整理 2019.10
-    +   [Github 下载](https://github.com/ixinzhi/zsxq)
+    +   [Github 下载](http://flygon.net/zsxq/)
+    +   [BiliDrive](http://flygon.net/zsxq-bilidrive/)
 +   生财日历 2020
     +   [Github 下载](https://github.com/wizardforcel/blog/files/3973187/2020.pdf)
     +   BiliDrive：`bdrive://40a525c7f40916b1bffcee5d53f4efdc6f127809`
