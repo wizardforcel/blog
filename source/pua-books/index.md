@@ -3,6 +3,17 @@ title: PUA 书籍
 date: 2019-01-01 00:00:00
 ---
 
+## 下载方式
+
+```
+pip install bilidrive
+bilidrive download <link>
+```
+
+## 链接
+
+<!--more-->
+
 | 书籍 | 链接 |
 | --- | --- |
 | 属性 - PUANEY.pdf (7.71 MB) | bdrive://a4684fde71b33ce173c5c4944623017043742f11 |

@@ -19,11 +19,11 @@ date: 2018-08-28 11:39:58
 
 你们就尽管删吧，副本是删不完的，知识共享的脚步是挡不住的！
 
-部分资源使用 [BiliDrive](https://github.com/Hsury/BiliDrive) 维护，非常感谢该项目所提供的支持。执行以下命令来下载它们：
+部分资源使用 [BiliDriveEx](https://github.com/apachecn/BiliDriveEx) 维护，非常感谢该项目所提供的支持。执行以下命令来下载它们：
 
 ```
-pip install bilidrive
-bilidrive download <link>
+pip install BiliDriveEx
+bdex download <link>
 ```
 
 +   Kiwix：离线的维基百科
