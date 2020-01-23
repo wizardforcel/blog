@@ -1,7 +1,5 @@
 ---
 title: 知识星球精华整理 BiliDrive 备份
-categories:
-- 新知
 date: 2019-10-1 00:00:00
 ---
 
