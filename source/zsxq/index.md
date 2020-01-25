@@ -9,6 +9,8 @@ date: 2019-10-1 00:00:00
 
 <!--more-->
 
+## 第一期
+
 +   [1000 种赚钱方法知识星球精华 20190828.epub](https://github.com/ixinzhi/zsxq/blob/master/1000%20%E7%A7%8D%E8%B5%9A%E9%92%B1%E6%96%B9%E6%B3%95%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E7%B2%BE%E5%8D%8E%2020190828.epub)
 +   [11 点港股打新知识星球整理 20190909.epub](https://github.com/ixinzhi/zsxq/blob/master/11%20%E7%82%B9%E6%B8%AF%E8%82%A1%E6%89%93%E6%96%B0%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E6%95%B4%E7%90%86%2020190909.epub)
 +   [Affiliate 营销圈知识星球精华 20191125.epub](https://github.com/ixinzhi/zsxq/blob/master/Affiliate%20%E8%90%A5%E9%94%80%E5%9C%88%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E7%B2%BE%E5%8D%8E%2020191125.epub)
@@ -64,6 +66,9 @@ date: 2019-10-1 00:00:00
 +   [郑州新一线知识星球整理 20190523.epub](https://github.com/ixinzhi/zsxq/blob/master/%E9%83%91%E5%B7%9E%E6%96%B0%E4%B8%80%E7%BA%BF%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E6%95%B4%E7%90%86%2020190523.epub)
 +   [黄章林的升级课知识星球精华 20190909.epub](https://github.com/ixinzhi/zsxq/blob/master/%E9%BB%84%E7%AB%A0%E6%9E%97%E7%9A%84%E5%8D%87%E7%BA%A7%E8%AF%BE%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E7%B2%BE%E5%8D%8E%2020190909.epub)
 +   [齐俊杰的粉丝群知识星球精华 2019.pdf](https://github.com/ixinzhi/zsxq/blob/master/%E9%BD%90%E4%BF%8A%E6%9D%B0%E7%9A%84%E7%B2%89%E4%B8%9D%E7%BE%A4%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E7%B2%BE%E5%8D%8E%202019.pdf)
+
+## 第二期
+
 +   [思维导图妙思屋知识星球整理 2019 第一部分.epub](https://github.com/ixinzhi/zsxq2/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%A6%99%E6%80%9D%E5%B1%8B%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E6%95%B4%E7%90%86%202019%20%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86.epub)
 +   [思维导图妙思屋知识星球整理 2019 第三部分.epub](https://github.com/ixinzhi/zsxq2/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%A6%99%E6%80%9D%E5%B1%8B%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E6%95%B4%E7%90%86%202019%20%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86.epub)
 +   [思维导图妙思屋知识星球整理 2019 第二部分.epub](https://github.com/ixinzhi/zsxq2/blob/master/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%A6%99%E6%80%9D%E5%B1%8B%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E6%95%B4%E7%90%86%202019%20%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86.epub)
