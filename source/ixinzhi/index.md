@@ -59,12 +59,11 @@ bdex download <link>
     +   BiliDrive：`bdex://59770ef26340fa4a6f2ef522d7fc27cbd5c2f422`
 +   军地两用人才之友（PDF 格式）（`bdex://df2b1c9e5306d936210497aa8020ca2bc42bf262`）
 +   军地两用人才之友续编本（PDF 格式）（`bdex://424be45d222028d3ce548ec82a4b0adc90189446`）
-+   知识星球精华整理 2019.10
++   知识星球精华整理
+    +   [坚果云下载](https://www.jianguoyun.com/p/DQpJInIQxrzlBxii5s8C)
+    +   [MEGA 下载](https://mega.nz/#F!GREXQaLb!9X0Fw5BQXZVb2UUj8kBBRg)
     +   [Github 下载](http://flygon.net/zsxq/)
     +   [BiliDrive](http://flygon.net/zsxq-bilidrive/)
-+   生财日历 2020
-    +   [Github 下载](https://github.com/wizardforcel/blog/files/3973187/2020.pdf)
-    +   BiliDrive：`bdrive://40a525c7f40916b1bffcee5d53f4efdc6f127809`
 +   [唯库课程整理](http://flygon.net/%E5%94%AF%E5%BA%93/)
 +   [十点课堂课程整理](http://flygon.net/%E5%8D%81%E7%82%B9%E8%AF%BE%E5%A0%82/)
 
