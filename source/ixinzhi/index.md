@@ -66,7 +66,7 @@ bdex download <link>
     +   [BiliDrive](http://flygon.net/zsxq-bilidrive/)
 +   [唯库课程整理](http://flygon.net/%E5%94%AF%E5%BA%93/)
 +   [十点课堂课程整理](http://flygon.net/%E5%8D%81%E7%82%B9%E8%AF%BE%E5%A0%82/)
-+   得到课程整理
++   得到课程整理（图文）
     +   [坚果云下载](https://www.jianguoyun.com/p/DT3lFq0QxrzlBxjOntEC)
     +   [MEGA 下载](https://mega.nz/#F!SdFBVI4a!HZUl5GLpkZrRC7vs1DXRaw)
     +   [Github 下载](http://flygon.net/igetget/)
