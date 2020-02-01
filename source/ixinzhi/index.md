@@ -41,6 +41,8 @@ bdex download <link>
 +   轻小说归档 2009~2013
     +   [仓库](http://flygon.net/lightnovel-2009-2013/)
     +   [BiliDrive](http://flygon.net/lightnovel-2009-2013-bilidrive/)
++   日漫归档 2018
+    +   [BiliDrive](http://flygon.net/comic-2018-bilidrive.md)
 +   [奇点大学未来学](https://www.youtube.com/playlist?list=PLACCF3215D88BB174)
 +   [费曼物理学讲义（英文）](http://www.feynmanlectures.caltech.edu/)
 +   [5 分钟商学院精细笔记](https://github.com/ixinzhi/business-5min-notes)
