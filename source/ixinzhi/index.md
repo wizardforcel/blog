@@ -15,11 +15,9 @@ date: 2018-08-28 11:39:58
 1.  CDN，例如各大平台的图床
 1.  区块链，例如 IPFS 和 ZeroNet
 
-并使用来自 ApacheCN 的技术和经验做推广。
-
 你们就尽管删吧，副本是删不完的，知识共享的脚步是挡不住的！
 
-部分资源使用 [BiliDriveEx](https://github.com/apachecn/BiliDriveEx) 维护，非常感谢该项目所提供的支持。执行以下命令来下载它们：
+部分资源使用 [BiliDriveEx](https://github.com/apachecn/BiliDriveEx) 维护，执行以下命令来下载它们：
 
 ```
 pip install BiliDriveEx
