@@ -14,7 +14,7 @@ bdex download <link>
 
 <!--more-->
 
-### 第一期
+### 第一批
 
 | 文档 | 链接 |
 | --- | --- |
@@ -74,7 +74,7 @@ bdex download <link>
 | 产品学徒知识星球精华 20190527.epub (588.80 KB) | bdex://fcb456fcfbcbbf0ae581bb4c0f99e9017ca7ddbe |
 | 站在中国财富之巅——风格纯粹VS童大焕云端对话中国三大城市群.pdf (1.77 MB) | bdex://9c6a042a6758771de01c0a399fcb5527a27cca0f |
 
-### 第二期
+### 第二批
 
 | 文档 | 链接 |
 | --- | --- |
