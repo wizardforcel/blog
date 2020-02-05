@@ -135,3 +135,35 @@ bdex download <link>
 | 香帅北大金融学课201712-201803.pdf (15.44 MB) | bdex://46c4c40e0cc8c5ac2a0840991904208afc5cc9b4 |
 | 香帅的北大金融学课201804-06.pdf (12.70 MB) | bdex://bb35e5479166030c54bc81ca78bfb8e867b608cc |
 | 宁向东清华管理学课201710-12.pdf (13.02 MB) | bdex://90d4a623f083ca13a7e0d4ed13f6f2e58fc4c325 |
+
+### 第三批
+
+| 文档 | 链接 |
+| --- | --- |
+| 卓老板聊科技201704-05.pdf (5.41 MB) | bdex://23591cbe314bf36f87fc3b99901e2a2553b928f7 |
+| 马徐骏世界名刊速读201804-07.pdf (11.25 MB) | bdex://a9bb5a9eecd8aa2b14755889a5a279ca93fd5671 |
+| 徐来给孩子的博物学201710-12.pdf (9.94 MB) | bdex://ad445ab2abf20fe5f5b6623e7a310b2e2652498b |
+| 吴伯凡认知方法论201804-06.pdf (7.74 MB) | bdex://9f999b463af7ee759736833dc8f80a1d4ce9f99c |
+| 万维钢精英日课第三期201903-05.pdf (13.13 MB) | bdex://ec26b6cdde280c58df3f0e29df667556b021a881 |
+| 万维钢精英日课第三期201906-08.pdf (10.87 MB) | bdex://7655511aadcb84296f53c34cd676133e9b270328 |
+| 马徐俊新知报告201811-201901.pdf (11.24 MB) | bdex://d0969c687b7d334d3cac1c08c17ff008bc12b77a |
+| 马徐骏世界名刊速读201808-11.pdf (15.21 MB) | bdex://a8e3b511277e01f02532a10b104df03a6c45d526 |
+| 徐来给孩子的博物学201704-06.pdf (10.14 MB) | bdex://14e64b7aab2d0d51d564e756de954c16d22d0cda |
+| 卓老板聊科技201610-12.pdf (6.16 MB) | bdex://9a200fb0ca1ca10503a5ef8e1fcd0ea565fc4fed |
+| 老浦识字201709-11.pdf (5.49 MB) | bdex://0e07479a7286cfba23ce80beb02eb4e1ce45459f |
+| 马徐俊新知报告201902-05.pdf (14.43 MB) | bdex://6dd3b59df44b3486265d62f2b5bea91b25093788 |
+| README.md (10 B) | bdex://5c5a850d4b8e0eac2aa07de471a341b13328570c |
+| 老浦识字201702-05.pdf (7.07 MB) | bdex://02d5f01e799ff5f06225b2d2971477356d91d8d6 |
+| 贾行家说武侠30讲.pdf (6.07 MB) | bdex://370ce2c8bcb7d5d9c9c25eccaf01da68af25fb03 |
+| 马徐俊新知报告201805-07.pdf (8.44 MB) | bdex://7c5d2cc0c9b39b746b65dbd83d3ad8136d610bb3 |
+| 吴伯凡认知方法论201810-12.pdf (8.67 MB) | bdex://8b9d82ef764e22ea5cd6dd185bcae335a2dd1a72 |
+| 卓老板聊科技201701-03.pdf (6.30 MB) | bdex://33bf9b4f82d86528cfdbd90f4eded37301b8b715 |
+| 老浦识字201712-201802.pdf (4.31 MB) | bdex://369c40c42601a28950ff48cf028e7f9f1e05c380 |
+| 吴伯凡认知方法论201901-04.pdf (9.64 MB) | bdex://6ffbd4a46f7ee61842d507b40ad5e9fa55fa89ce |
+| 万维钢精英日课第三期201909-12.pdf (13.12 MB) | bdex://3c3c8d95a3e971594db93310140cd9618a2138a4 |
+| 徐来给孩子的博物学201801-04.pdf (11.81 MB) | bdex://629cef7378b6fcae4900749100ca04f28a6e28a5 |
+| 万维钢精英日课第三期201811-201902.pdf (13.67 MB) | bdex://d6369acc4a6cd5361d5cd02964d6190b3df04801 |
+| 老浦识字201706-08.pdf (5.46 MB) | bdex://566a0d92e7fc9e85cf77b11b6d53537b4c34ba23 |
+| 马徐俊新知报告201808-10.pdf (11.53 MB) | bdex://08ce7f143bbf724bcd73e744917fac4b2c999c5f |
+| 徐来给孩子的博物学201707-09.pdf (10.99 MB) | bdex://b49f11b09a63ad061bc1bcff3abf67ee7fbdfbc0 |
+| 吴伯凡认知方法论201807-09.pdf (8.58 MB) | bdex://04e724de08056498943e8ab73455ad47fce8bd5a |
