@@ -40,6 +40,7 @@ date: 2013-08-17 22:44:56
 
 感谢以下项目提供的支持：
 
++   [苍海国际](https://www.258ch.com/)
 +   [黑客派](https://hacpai.com/)
 +   [ApacheCN](http://www.apachecn.org/)
 +   [BiliDrive](https://github.com/Hsury/BiliDrive)
