@@ -24,28 +24,16 @@ pip install BiliDriveEx
 bdex download <link>
 ```
 
+## 通识类学习资源
+
 +   Kiwix：离线的维基百科
     +   [阅读器](https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip)
     +   [英文数据包](http://download.kiwix.org/zim/wikipedia_zh_all.zim)
     +   [英文数据包 BitTorrent](http://download.kiwix.org/zim/wikipedia_zh_all.zim.torrent)
     +   [英文数据包的其他版本（包括不含图片的极小镜像）](https://wiki.kiwix.org/wiki/Content/zh-cn)
     +   [其他语言的数据包](https://wiki.kiwix.org/wiki/Content_in_all_languages/zh-cn)
-+   轻小说归档 2018
-    +   [仓库](http://flygon.net/lightnovel-2018/)
-    +   [BiliDrive](http://flygon.net/lightnovel-2018-bilidrive/)
-+   轻小说归档 2014~2017
-    +   [仓库](http://flygon.net/lightnovel-2014-2017/)
-    +   [BiliDrive](http://flygon.net/lightnovel-2014-2017-bilidrive/)
-+   轻小说归档 2009~2013
-    +   [仓库](http://flygon.net/lightnovel-2009-2013/)
-    +   [BiliDrive](http://flygon.net/lightnovel-2009-2013-bilidrive/)
-+   日漫归档 2018
-    +   [BiliDrive](http://flygon.net/comic-2018-bilidrive)
 +   [奇点大学未来学](https://www.youtube.com/playlist?list=PLACCF3215D88BB174)
 +   [费曼物理学讲义（英文）](http://www.feynmanlectures.caltech.edu/)
-+   [5 分钟商学院精细笔记](https://github.com/ixinzhi/business-5min-notes)
-+   
-[通往财富自由之路精细笔记](https://github.com/ixinzhi/the-way-to-wealth-freedom-notes)
 +   [可能是让你受益匪浅的英语进阶指南](https://legacy.gitbook.com/book/byoungd/english-level-up-tips-for-chinese/details)
 +   [默沙东诊疗手册（大众版）](https://www.msdmanuals.cn/%E9%A6%96%E9%A1%B5)
 +   [儿童性教育 - 程序媛计划](https://www.cxy61.com/girl/child_sexual_education/index.html)
@@ -71,6 +59,20 @@ bdex download <link>
     +   [MEGA 下载](https://mega.nz/#F!SdFBVI4a!HZUl5GLpkZrRC7vs1DXRaw)
     +   [Github 下载](http://flygon.net/igetget/)
     +   [BiliDrive](http://flygon.net/igetget-bilidrive/)
+
+## ACG 资源
+
++   轻小说归档 2018
+    +   [仓库](http://flygon.net/lightnovel-2018/)
+    +   [BiliDrive](http://flygon.net/lightnovel-2018-bilidrive/)
++   轻小说归档 2014~2017
+    +   [仓库](http://flygon.net/lightnovel-2014-2017/)
+    +   [BiliDrive](http://flygon.net/lightnovel-2014-2017-bilidrive/)
++   轻小说归档 2009~2013
+    +   [仓库](http://flygon.net/lightnovel-2009-2013/)
+    +   [BiliDrive](http://flygon.net/lightnovel-2009-2013-bilidrive/)
++   日漫归档 2018
+    +   [BiliDrive](http://flygon.net/comic-2018-bilidrive)
 
 <!--endixinzhi-->
 
