@@ -20,6 +20,7 @@ fancybox: true
 widgets:
 - about
 - support
+- gzh
 - music
 - ad
 - recent_posts
